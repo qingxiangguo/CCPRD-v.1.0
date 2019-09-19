@@ -28,7 +28,7 @@ Please cite:
 14.	Stanke, M., Keller, O., Gunduz, I., Hayes, A., Waack, S., & Morgenstern, B. (2006). Augustus: ab initio prediction of alternative transcripts. Nucleic Acids Research, 34 (Web Server issue), 435-9.
 
 License
-All source code, i.e. scripts/*.pl, scripts/*.sh or scripts/*.py are under the MIT license.
+All source code, i.e. scripts/.pl, scripts/.sh or scripts/.py are under the MIT license.
 
 
 
