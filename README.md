@@ -1,15 +1,15 @@
-#CCPRD: A novel analytical framework for comprehensive proteomic reference database construction of non-model parasites
+# CCPRD: A novel analytical framework for comprehensive proteomic reference database construction of non-model parasites
 
 
-#Contributors
+# Contributors
 Qingxiang Guo1, 2, Yang Liu1, 2, Yanhua Zhai1, 2, Zemao Gu1, 2*
 1Department of Aquatic Animal Medicine, College of Fisheries, Huazhong Agricultural University, Wuhan, Hubei province, 430070, PR China.
 2Hubei Engineering Technology Research Center for Aquatic Animal Diseases Control and Prevention, Wuhan, 430070, PR China.
 
-#What is CCPRD?
+# What is CCPRD?
 Here we propose an efficient framework for constructing the comprehensive protein reference database, "customed comprehensive proteomic reference database (CCPRD)", which incorporated the draft genomes and transcriptomes. Compared with previous protocols, our method has the advantage of smaller search space, lower computing resource demanding, lower false-positivity and higher sensitivity.
 
-#Citing CCPRD and software called by CCPRD
+# Citing CCPRD and software called by CCPRD
 Since CCPRD is a pipeline that depends several Bioinformatics tools, publication of results obtained by CCPRD requires that not only CCPRD is cited, but also the tools that are used by CCPRD:
 Please cite:
 
@@ -28,7 +28,7 @@ Please cite:
 13.	Pertea, G., Huang, X., Liang, F., Antonescu, V., Sultana, R., & Karamycheva, S., et al. (2003). Tigr gene indices clustering tools (tgicl): a software system for fast clustering of large est datasets. Bioinformatics, 19(5), 651-652. 
 14.	Stanke, M., Keller, O., Gunduz, I., Hayes, A., Waack, S., & Morgenstern, B. (2006). Augustus: ab initio prediction of alternative transcripts. Nucleic Acids Research, 34 (Web Server issue), 435-9.
 
-#License
+# License
 All source code, i.e. scripts/.pl, scripts/.sh or scripts/.py are under the MIT license.
 
 
