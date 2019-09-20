@@ -2,7 +2,7 @@
 
 
 # Contributors
-Qingxiang Guo1, 2, Yang Liu1, 2, Yanhua Zhai1, 2, Zemao Gu1, 2*
+Qingxiang Guo1, 2, Dan Li1, 2, Yanhua Zhai1, 2, Zemao Gu1, 2*
 1Department of Aquatic Animal Medicine, College of Fisheries, Huazhong Agricultural University, Wuhan, Hubei province, 430070, PR China.
 2Hubei Engineering Technology Research Center for Aquatic Animal Diseases Control and Prevention, Wuhan, 430070, PR China.
 
