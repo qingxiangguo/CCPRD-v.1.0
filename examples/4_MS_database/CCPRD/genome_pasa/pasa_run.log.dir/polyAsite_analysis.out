@@ -1,0 +1,222 @@
+There are 11 accessions captured from .cln file.
+// transcript: Unigene3401_YT
+PercentA_genomic: 80
+PercentA_trimmedSeq: 38.0952380952381
+cdna:Unigene3401_YT, annotdb_asmbl_id:NC_001134.8, polyAcoord:419349, transcribedOrient:+, lend, offset: 0
+GGGGCAAAccaaaacaagaa
+ACCGCGAAATGAAGTGCGGGTCAAAAGAGGA       Unigene3401_YT  TransOrient (+) 
+trimmedSeq:
+          GAAGTGCGGGTCAAAAGAGGA
+IGNORE(1): potential internal genomic sequence priming, 80.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene3208_YT
+PercentA_genomic: 100
+PercentA_trimmedSeq: 39.8058252427184
+cdna:Unigene3208_YT, annotdb_asmbl_id:NC_001134.8, polyAcoord:88139, transcribedOrient:-, lend, offset: 0
+TAgccatttcaaaaaaaaaa
+TAGCCATTTCAAAAAAAAAAAAGAAAAAGAGAAAAAAACAGTTGGGTGACCACACCTATCCATTTTTTTCACAATTGCAGCTGTGGTTACTTGTTGGCTATGCGATTCAGAAT       Unigene3208_YT  TransOrient (-) 
+trimmedSeq:
+          AAAAAAAAAAAAGAAAAAGAGAAAAAAACAGTTGGGTGACCACACCTATCCATTTTTTTCACAATTGCAGCTGTGGTTACTTGTTGGCTATGCGATTCAGAAT
+IGNORE(1): potential internal genomic sequence priming, 100.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene3208_YT
+PercentA_genomic: 100
+PercentA_trimmedSeq: 39.8058252427184
+cdna:Unigene3208_YT, annotdb_asmbl_id:NC_001134.8, polyAcoord:88139, transcribedOrient:-, lend, offset: 0
+TAgccatttcaaaaaaaaaa
+TAGCCATTTCAAAAAAAAAAAAGAAAAAGAGAAAAAAACAGTTGGGTGACCACACCTATCCATTTTTTTCACAATTGCAGCTGTGGTTACTTGTTGGCTATGCGATTCAGAAT       Unigene3208_YT  TransOrient (-) 
+trimmedSeq:
+          AAAAAAAAAAAAGAAAAAGAGAAAAAAACAGTTGGGTGACCACACCTATCCATTTTTTTCACAATTGCAGCTGTGGTTACTTGTTGGCTATGCGATTCAGAAT
+IGNORE(1): potential internal genomic sequence priming, 100.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene3401_YT
+PercentA_genomic: 80
+PercentA_trimmedSeq: 38.0952380952381
+cdna:Unigene3401_YT, annotdb_asmbl_id:NC_001134.8, polyAcoord:419349, transcribedOrient:+, lend, offset: 0
+GGGGCAAAccaaaacaagaa
+ACCGCGAAATGAAGTGCGGGTCAAAAGAGGA       Unigene3401_YT  TransOrient (+) 
+trimmedSeq:
+          GAAGTGCGGGTCAAAAGAGGA
+IGNORE(1): potential internal genomic sequence priming, 80.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene665_YT
+PercentA_genomic: 100
+PercentA_trimmedSeq: 93.3333333333333
+cdna:Unigene665_YT, annotdb_asmbl_id:NC_001136.10, polyAcoord:1191893, transcribedOrient:+, rend, offset: 0
+AAGCCtggttaaaaaaaaaa
+AAGCCTGGTTAAAAAAAAAAAAAGA       Unigene665_YT  TransOrient (+) 
+trimmedSeq:
+          AAAAAAAAAAAAAGA
+IGNORE(1): potential internal genomic sequence priming, 100.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene711_YT
+PercentA_genomic: 80
+PercentA_trimmedSeq: 87.5
+cdna:Unigene711_YT, annotdb_asmbl_id:NC_001136.10, polyAcoord:1269493, transcribedOrient:+, rend, offset: 0
+CACATAAtgtaagaaaagaa
+CACATAATGTAAGAAAAGAAAAAAGAAAAAAAAA       Unigene711_YT  TransOrient (+) 
+trimmedSeq:
+          AAGAAAAGAAAAAAGAAAAAAAAA
+IGNORE(1): potential internal genomic sequence priming, 80.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene711_YT
+PercentA_genomic: 80
+PercentA_trimmedSeq: 87.5
+cdna:Unigene711_YT, annotdb_asmbl_id:NC_001136.10, polyAcoord:1269493, transcribedOrient:+, rend, offset: 0
+CACATAAtgtaagaaaagaa
+CACATAATGTAAGAAAAGAAAAAAGAAAAAAAAA       Unigene711_YT  TransOrient (+) 
+trimmedSeq:
+          AAGAAAAGAAAAAAGAAAAAAAAA
+IGNORE(1): potential internal genomic sequence priming, 80.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene665_YT
+PercentA_genomic: 100
+PercentA_trimmedSeq: 93.3333333333333
+cdna:Unigene665_YT, annotdb_asmbl_id:NC_001136.10, polyAcoord:1191893, transcribedOrient:+, rend, offset: 0
+AAGCCtggttaaaaaaaaaa
+AAGCCTGGTTAAAAAAAAAAAAAGA       Unigene665_YT  TransOrient (+) 
+trimmedSeq:
+          AAAAAAAAAAAAAGA
+IGNORE(1): potential internal genomic sequence priming, 100.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene1369_YT
+PercentA_genomic: 100
+PercentA_trimmedSeq: 73.9130434782609
+cdna:Unigene1369_YT, annotdb_asmbl_id:NC_001139.9, polyAcoord:287219, transcribedOrient:+, lend, offset: 0
+AATTGAaccgaaaaaaaaaa
+AATTGAACCGAAAAAAAAAGAATAGAAAAGGTA       Unigene1369_YT  TransOrient (+) 
+trimmedSeq:
+          AAAAAAAAAGAATAGAAAAGGTA
+IGNORE(1): potential internal genomic sequence priming, 100.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene1369_YT
+PercentA_genomic: 100
+PercentA_trimmedSeq: 73.9130434782609
+cdna:Unigene1369_YT, annotdb_asmbl_id:NC_001139.9, polyAcoord:287219, transcribedOrient:+, lend, offset: 0
+AATTGAaccgaaaaaaaaaa
+AATTGAACCGAAAAAAAAAGAATAGAAAAGGTA       Unigene1369_YT  TransOrient (+) 
+trimmedSeq:
+          AAAAAAAAAGAATAGAAAAGGTA
+IGNORE(1): potential internal genomic sequence priming, 100.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene3988_YT
+PercentA_genomic: 100
+PercentA_trimmedSeq: 51.8518518518518
+cdna:Unigene3988_YT, annotdb_asmbl_id:NC_001142.9, polyAcoord:620593, transcribedOrient:-, lend, offset: 0
+AAAAcaatcgaaaaaaaaaa
+AAAACAATCGAAAAAAAAAAAGAGGGAACGTGTGGGC       Unigene3988_YT  TransOrient (-) 
+trimmedSeq:
+          AAAAAAAAAAAGAGGGAACGTGTGGGC
+IGNORE(1): potential internal genomic sequence priming, 100.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene3988_YT
+PercentA_genomic: 100
+PercentA_trimmedSeq: 51.8518518518518
+cdna:Unigene3988_YT, annotdb_asmbl_id:NC_001142.9, polyAcoord:620593, transcribedOrient:-, lend, offset: 0
+AAAAcaatcgaaaaaaaaaa
+AAAACAATCGAAAAAAAAAAAGAGGGAACGTGTGGGC       Unigene3988_YT  TransOrient (-) 
+trimmedSeq:
+          AAAAAAAAAAAGAGGGAACGTGTGGGC
+IGNORE(1): potential internal genomic sequence priming, 100.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene6030_YT
+PercentA_genomic: 100
+PercentA_trimmedSeq: 27.7777777777778
+cdna:Unigene6030_YT, annotdb_asmbl_id:NC_001144.5, polyAcoord:366353, transcribedOrient:-, lend, offset: 0
+ACTcgatgataaaaaaaaaa
+ATAAATCTCTTTGTAAAACGGTTCATCC       Unigene6030_YT  TransOrient (-) 
+trimmedSeq:
+          TTGTAAAACGGTTCATCC
+IGNORE(1): potential internal genomic sequence priming, 100.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene5851_YT
+PercentA_genomic: 90
+PercentA_trimmedSeq: 35.1063829787234
+cdna:Unigene5851_YT, annotdb_asmbl_id:NC_001144.5, polyAcoord:36620, transcribedOrient:-, lend, offset: 0
+AGTGcaaattaaaaaaaaac
+AAAAAACCTAAAAAAAAAAAAAGAAGGAAATAGTTTTTGTCCATACCGGACTATGGTTTTCATTAACGAATTAGAGCGCCGCTGTTATCCTTTTATTAACTTTT       Unigene5851_YT  TransOrient (-) 
+trimmedSeq:
+          AAAAAAAAAAAAGAAGGAAATAGTTTTTGTCCATACCGGACTATGGTTTTCATTAACGAATTAGAGCGCCGCTGTTATCCTTTTATTAACTTTT
+IGNORE(1): potential internal genomic sequence priming, 90.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene6030_YT
+PercentA_genomic: 100
+PercentA_trimmedSeq: 27.7777777777778
+cdna:Unigene6030_YT, annotdb_asmbl_id:NC_001144.5, polyAcoord:366353, transcribedOrient:-, lend, offset: 0
+ACTcgatgataaaaaaaaaa
+ATAAATCTCTTTGTAAAACGGTTCATCC       Unigene6030_YT  TransOrient (-) 
+trimmedSeq:
+          TTGTAAAACGGTTCATCC
+IGNORE(1): potential internal genomic sequence priming, 100.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene1745_YT
+PercentA_genomic: 100
+PercentA_trimmedSeq: 71.4285714285714
+cdna:Unigene1745_YT, annotdb_asmbl_id:NC_001147.6, polyAcoord:357337, transcribedOrient:+, rend, offset: 0
+Gcgagaaaggaaaaaaaaaa
+GCGAGAAAGGAAAAAAAAAAAGTATCAGACA       Unigene1745_YT  TransOrient (+) 
+trimmedSeq:
+          AAAAAAAAAAAGTATCAGACA
+IGNORE(1): potential internal genomic sequence priming, 100.0% Adenine beyond putative polyAcoord.
+
+
+
+
+// transcript: Unigene1745_YT
+PercentA_genomic: 100
+PercentA_trimmedSeq: 71.4285714285714
+cdna:Unigene1745_YT, annotdb_asmbl_id:NC_001147.6, polyAcoord:357337, transcribedOrient:+, rend, offset: 0
+Gcgagaaaggaaaaaaaaaa
+GCGAGAAAGGAAAAAAAAAAAGTATCAGACA       Unigene1745_YT  TransOrient (+) 
+trimmedSeq:
+          AAAAAAAAAAAGTATCAGACA
+IGNORE(1): potential internal genomic sequence priming, 100.0% Adenine beyond putative polyAcoord.
+
+
+
+

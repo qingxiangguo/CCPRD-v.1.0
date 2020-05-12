@@ -1,0 +1,28 @@
+* Using trimming files:
+ 
+/opt/biosoft/PASApipeline-2.0.2/seqclean/UniVec
+seqclean running options: 
+seqclean ../../../2_cluster_mRNA/YT_Unigene.fasta -v /opt/biosoft/PASApipeline-2.0.2/seqclean/UniVec
+ Standard log file: seqcl_YT_Unigene.fasta.log
+ Error log file:    err_seqcl_YT_Unigene.fasta.log
+ Using 1 CPUs for cleaning
+-= Rebuilding YT_Unigene.fasta cdb index =-
+7014 entries from file ../../../2_cluster_mRNA/YT_Unigene.fasta were indexed in file YT_Unigene.fasta.cidx
+ Launching actual cleaning process:
+ psx -p 1  -n 1000  -i ../../../2_cluster_mRNA/YT_Unigene.fasta -d cleaning -C '/home/gqx/2020_CCPRD_yeast/4_MS_database/CCPRD/genome_pasa/../../../2_cluster_mRNA/YT_Unigene.fasta:ANLMS100:/opt/biosoft/PASApipeline-2.0.2/seqclean/UniVec::11:0' -c '/opt/biosoft/PASApipeline-2.0.2/seqclean/seqclean/bin/seqclean.psx'
+WAITING for all children to finish before starting last child!
+WAITING for all children to finish!
+Collecting cleaning reports
+
+**************************************************
+Sequences analyzed:      7014
+-----------------------------------
+                   valid:      7001  (1273 trimmed)
+                 trashed:        13
+**************************************************
+----= Trashing summary =------
+              by 'UniVec':       13
+------------------------------
+Output file containing only valid and trimmed sequences: YT_Unigene.fasta.clean
+For trimming and trashing details see cleaning report  : YT_Unigene.fasta.cln
+--------------------------------------------------

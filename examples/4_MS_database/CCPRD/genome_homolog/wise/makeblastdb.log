@@ -1,0 +1,9 @@
+
+
+Building a new DB, current time: 04/25/2020 17:55:21
+New DB name:   /home/gqx/2020_CCPRD_yeast/4_MS_database/CCPRD/genome_homolog/wise/genome
+New DB title:  genome
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 17 sequences in 0.290421 seconds.

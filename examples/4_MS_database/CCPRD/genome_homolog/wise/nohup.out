@@ -1,0 +1,15 @@
+CMD 1/4: makeblastdb -in genome.hardmaskN.fasta -dbtype nucl -title genome -parse_seqids -out genome &> makeblastdb.log
+1. Successfully Make Blast Database of genome.hardmaskN.fasta
+
+CMD 2/4: /opt/biosoft/homolog_genewise/blast.pl tblastn genome rename_all.fasta 1e-5 8 out 6
+2. Successfully align homolog to genome by tblastn
+
+CMD 3/4: /opt/biosoft/homolog_genewise/blast2geneRegion.pl out.tab rename_all.fasta 0.1 1e-9 > homolog_gene_region.tab
+3. Successfully get homolog gene region information
+
+    5660 gene regions, with average gene length 1619
+CMD 4/4: /opt/biosoft/homolog_genewise/geneRegion_genewise.pl genome.hardmaskN.fasta rename_all.fasta homolog_gene_region.tab 1619 8 > genewise.gff
+4. Successfully run genewise parally
+
+The final result file : genewise.gff
+

@@ -1,0 +1,6 @@
+
+========================[ Apr 24, 2020  2:38 PM ]========================
+NOTE: CoreLib [002.003] FileOpen("/home/train/public_database/uniref90/data/seqcode.val","rb") failed
+Version 2.2.1 [Jul-12-2001]
+Started database file "yeast.fasta_cdhit"
+Formatted 7182 sequences

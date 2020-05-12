@@ -1,0 +1,72 @@
+PASA Pipeline CMD:	/opt/biosoft/PASApipeline-2.0.2/scripts/Launch_PASA_pipeline.pl -c alignAssembly.config -R -g ../genome_denovo/GeneMark-ES/genome.fasta -t YT_Unigene.fasta.clean -T -u YT_Unigene.fasta --ALIGNERS gmap,blat --CPU 8 --stringent_alignment_overlap 30.0 --TDN tdn.accs --MAX_INTRON_LENGTH 20000 --TRANSDECODER
+
+CMD[1]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/upload_transcript_data.dbi -M pasa_20200425190243 -t YT_Unigene.fasta.clean -T tdn.accs -f NULL 
+
+CMD[2]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/run_spliced_aligners.pl --aligners gmap,blat --genome ../genome_denovo/GeneMark-ES/genome.fasta --transcripts YT_Unigene.fasta.clean -I 20000 -N 1 --CPU 8
+
+CMD[3]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/import_spliced_alignments.dbi -M pasa_20200425190243  -A gmap -g gmap.spliced_alignments.gff3
+
+CMD[4]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/import_spliced_alignments.dbi -M pasa_20200425190243  -A blat -g blat.spliced_alignments.gff3
+
+CMD[5]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//pasa-plugins/transdecoder/transcripts_to_best_scoring_ORFs.pl -t YT_Unigene.fasta.clean 
+
+CMD[6]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/extract_FL_transdecoder_entries.pl YT_Unigene.fasta.clean.transdecoder.gff3 > YT_Unigene.fasta.clean.transdecoder.gff3.fl_accs
+
+CMD[7]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/update_fli_status.dbi -M pasa_20200425190243 -f YT_Unigene.fasta.clean.transdecoder.gff3.fl_accs
+
+CMD[8]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/validate_alignments_in_db.dbi -M pasa_20200425190243 -g ../genome_denovo/GeneMark-ES/genome.fasta -t YT_Unigene.fasta.clean --MAX_INTRON_LENGTH 20000 --CPU 8   --MIN_PERCENT_ALIGNED 80 --MIN_AVG_PER_ID 90 > alignment.validations.output
+
+CMD[9]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/update_alignment_status.dbi -M pasa_20200425190243 < alignment.validations.output  > pasa_run.log.dir/alignment.validation_loading.output
+
+CMD[10]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -v -A -P gmap > pasa_20200425190243.valid_gmap_alignments.gff3
+
+CMD[11]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -v -A -P gmap -B  > pasa_20200425190243.valid_gmap_alignments.bed
+
+CMD[12]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -v -A -P gmap -T  > pasa_20200425190243.valid_gmap_alignments.gtf
+
+CMD[13]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -f -A -P gmap > pasa_20200425190243.failed_gmap_alignments.gff3
+
+CMD[14]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -f -A -P gmap -B  > pasa_20200425190243.failed_gmap_alignments.bed
+
+CMD[15]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -f -A -P gmap -T  > pasa_20200425190243.failed_gmap_alignments.gtf
+
+CMD[16]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -v -A -P blat > pasa_20200425190243.valid_blat_alignments.gff3
+
+CMD[17]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -v -A -P blat -B  > pasa_20200425190243.valid_blat_alignments.bed
+
+CMD[18]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -v -A -P blat -T  > pasa_20200425190243.valid_blat_alignments.gtf
+
+CMD[19]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -f -A -P blat > pasa_20200425190243.failed_blat_alignments.gff3
+
+CMD[20]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -f -A -P blat -B  > pasa_20200425190243.failed_blat_alignments.bed
+
+CMD[21]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -f -A -P blat -T  > pasa_20200425190243.failed_blat_alignments.gtf
+
+CMD[22]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/polyA_site_transcript_mapper.dbi -M pasa_20200425190243 -c YT_Unigene.fasta.cln -g ../genome_denovo/GeneMark-ES/genome.fasta -t YT_Unigene.fasta > pasa_run.log.dir/polyAsite_analysis.out
+
+CMD[23]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/polyA_site_summarizer.dbi -M pasa_20200425190243 -g ../genome_denovo/GeneMark-ES/genome.fasta  > pasa_20200425190243.polyAsites.fasta
+
+CMD[24]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/assign_clusters_by_stringent_alignment_overlap.dbi -M pasa_20200425190243 -L 30.0 > pasa_run.log.dir/cluster_reassignment_by_stringent_overlap.out
+
+CMD[25]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/assemble_clusters.dbi -G ../genome_denovo/GeneMark-ES/genome.fasta  -M pasa_20200425190243  -T 8  > pasa_20200425190243.pasa_alignment_assembly_building.ascii_illustrations.out
+
+CMD[26]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/assembly_db_loader.dbi -M pasa_20200425190243 > pasa_run.log.dir/alignment_assembly_loading.out
+
+CMD[27]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/subcluster_builder.dbi -G ../genome_denovo/GeneMark-ES/genome.fasta -M pasa_20200425190243   -m 50 > pasa_run.log.dir/alignment_assembly_subclustering.out
+
+CMD[28]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/populate_mysql_assembly_alignment_field.dbi -M pasa_20200425190243 -G ../genome_denovo/GeneMark-ES/genome.fasta
+
+CMD[29]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/populate_mysql_assembly_sequence_field.dbi -M pasa_20200425190243 -G ../genome_denovo/GeneMark-ES/genome.fasta
+
+CMD[30]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/subcluster_loader.dbi -M pasa_20200425190243  < pasa_run.log.dir/alignment_assembly_subclustering.out 
+
+CMD[31]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/alignment_assembly_to_gene_models.dbi -M pasa_20200425190243 -G ../genome_denovo/GeneMark-ES/genome.fasta
+
+CMD[32]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -a  > pasa_20200425190243.pasa_assemblies.gff3
+
+CMD[33]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -a -B  > pasa_20200425190243.pasa_assemblies.bed
+
+CMD[34]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/PASA_transcripts_and_assemblies_to_GFF3.dbi -M pasa_20200425190243 -a -T  > pasa_20200425190243.pasa_assemblies.gtf
+
+CMD[35]:	/opt/biosoft/PASApipeline-2.0.2/scripts/..//scripts/describe_alignment_assemblies_cgi_convert.dbi -M pasa_20200425190243  > pasa_20200425190243.pasa_assemblies_described.txt
+

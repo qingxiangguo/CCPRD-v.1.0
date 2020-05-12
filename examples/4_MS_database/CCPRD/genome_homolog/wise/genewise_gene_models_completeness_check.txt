@@ -1,0 +1,3 @@
+total genewise models number: 5980
+gene models with middle stop codon: 54
+complete gene models number: 2306

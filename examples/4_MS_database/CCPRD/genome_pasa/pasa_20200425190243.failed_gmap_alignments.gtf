@@ -1,0 +1,919 @@
+NC_001137.3	gmap	transcript	138166	138461	.	+	.	gene_id "align_id:1|CL1Contig3_YT"; transcript_id "align_id:1|CL1Contig3_YT|CL1Contig3_YT.path1";
+NC_001137.3	gmap	exon	138166	138461	87	+	.	gene_id "align_id:1|CL1Contig3_YT"; transcript_id "align_id:1|CL1Contig3_YT|CL1Contig3_YT.path1";
+
+NC_001142.9	gmap	transcript	198050	203677	.	+	.	gene_id "align_id:3|CL1Contig2_YT"; transcript_id "align_id:3|CL1Contig2_YT|CL1Contig2_YT.path1";
+NC_001142.9	gmap	exon	198050	202014	98	+	.	gene_id "align_id:3|CL1Contig2_YT"; transcript_id "align_id:3|CL1Contig2_YT|CL1Contig2_YT.path1";
+NC_001142.9	gmap	exon	202702	203677	99	+	.	gene_id "align_id:3|CL1Contig2_YT"; transcript_id "align_id:3|CL1Contig2_YT|CL1Contig2_YT.path1";
+
+NC_001147.6	gmap	transcript	226774	227898	.	-	.	gene_id "align_id:4|CL1Contig6_YT"; transcript_id "align_id:4|CL1Contig6_YT|CL1Contig6_YT.path1";
+NC_001147.6	gmap	exon	226774	227139	91	-	.	gene_id "align_id:4|CL1Contig6_YT"; transcript_id "align_id:4|CL1Contig6_YT|CL1Contig6_YT.path1";
+NC_001147.6	gmap	exon	227887	227898	100	-	.	gene_id "align_id:4|CL1Contig6_YT"; transcript_id "align_id:4|CL1Contig6_YT|CL1Contig6_YT.path1";
+
+NC_001140.6	gmap	transcript	85838	85909	.	-	.	gene_id "align_id:5|CL1Contig6_YT"; transcript_id "align_id:5|CL1Contig6_YT|CL1Contig6_YT.path2";
+NC_001140.6	gmap	exon	85838	85909	100	-	.	gene_id "align_id:5|CL1Contig6_YT"; transcript_id "align_id:5|CL1Contig6_YT|CL1Contig6_YT.path2";
+
+NC_001138.5	gmap	transcript	159267	161334	.	+	.	gene_id "align_id:8|CL1Contig5_YT"; transcript_id "align_id:8|CL1Contig5_YT|CL1Contig5_YT.path1";
+NC_001138.5	gmap	exon	159267	159450	79	+	.	gene_id "align_id:8|CL1Contig5_YT"; transcript_id "align_id:8|CL1Contig5_YT|CL1Contig5_YT.path1";
+NC_001138.5	gmap	exon	160655	161334	72	+	.	gene_id "align_id:8|CL1Contig5_YT"; transcript_id "align_id:8|CL1Contig5_YT|CL1Contig5_YT.path1";
+
+NC_001138.5	gmap	transcript	160190	160626	.	+	.	gene_id "align_id:9|CL1Contig5_YT"; transcript_id "align_id:9|CL1Contig5_YT|CL1Contig5_YT.path2";
+NC_001138.5	gmap	exon	160190	160626	89	+	.	gene_id "align_id:9|CL1Contig5_YT"; transcript_id "align_id:9|CL1Contig5_YT|CL1Contig5_YT.path2";
+
+NC_001134.8	gmap	transcript	373911	378654	.	-	.	gene_id "align_id:14|CL10Contig1_YT"; transcript_id "align_id:14|CL10Contig1_YT|CL10Contig1_YT.path1";
+NC_001134.8	gmap	exon	373911	375374	81	-	.	gene_id "align_id:14|CL10Contig1_YT"; transcript_id "align_id:14|CL10Contig1_YT|CL10Contig1_YT.path1";
+NC_001134.8	gmap	exon	378121	378654	88	-	.	gene_id "align_id:14|CL10Contig1_YT"; transcript_id "align_id:14|CL10Contig1_YT|CL10Contig1_YT.path1";
+
+NC_001134.8	gmap	transcript	375707	376656	.	-	.	gene_id "align_id:15|CL10Contig1_YT"; transcript_id "align_id:15|CL10Contig1_YT|CL10Contig1_YT.path2";
+NC_001134.8	gmap	exon	375707	376656	96	-	.	gene_id "align_id:15|CL10Contig1_YT"; transcript_id "align_id:15|CL10Contig1_YT|CL10Contig1_YT.path2";
+
+NC_001145.3	gmap	transcript	228866	229904	.	+	.	gene_id "align_id:18|CL23Contig1_YT"; transcript_id "align_id:18|CL23Contig1_YT|CL23Contig1_YT.path1";
+NC_001145.3	gmap	exon	228866	229904	85	+	.	gene_id "align_id:18|CL23Contig1_YT"; transcript_id "align_id:18|CL23Contig1_YT|CL23Contig1_YT.path1";
+
+NC_001136.10	gmap	transcript	472610	476281	.	+	.	gene_id "align_id:19|CL12Contig1_YT"; transcript_id "align_id:19|CL12Contig1_YT|CL12Contig1_YT.path1";
+NC_001136.10	gmap	exon	472610	473087	76	+	.	gene_id "align_id:19|CL12Contig1_YT"; transcript_id "align_id:19|CL12Contig1_YT|CL12Contig1_YT.path1";
+NC_001136.10	gmap	exon	475899	476281	94	+	.	gene_id "align_id:19|CL12Contig1_YT"; transcript_id "align_id:19|CL12Contig1_YT|CL12Contig1_YT.path1";
+
+NC_001134.8	gmap	transcript	668349	670596	.	-	.	gene_id "align_id:20|CL27Contig1_YT"; transcript_id "align_id:20|CL27Contig1_YT|CL27Contig1_YT.path1";
+NC_001134.8	gmap	exon	668349	670596	84	-	.	gene_id "align_id:20|CL27Contig1_YT"; transcript_id "align_id:20|CL27Contig1_YT|CL27Contig1_YT.path1";
+
+NC_001144.5	gmap	transcript	388494	390916	.	-	.	gene_id "align_id:22|CL4Contig1_YT"; transcript_id "align_id:22|CL4Contig1_YT|CL4Contig1_YT.path1";
+NC_001144.5	gmap	exon	388494	389217	79	-	.	gene_id "align_id:22|CL4Contig1_YT"; transcript_id "align_id:22|CL4Contig1_YT|CL4Contig1_YT.path1";
+NC_001144.5	gmap	exon	390865	390916	90	-	.	gene_id "align_id:22|CL4Contig1_YT"; transcript_id "align_id:22|CL4Contig1_YT|CL4Contig1_YT.path1";
+
+NC_001145.3	gmap	transcript	651029	653051	.	+	.	gene_id "align_id:24|CL38Contig1_YT"; transcript_id "align_id:24|CL38Contig1_YT|CL38Contig1_YT.path1";
+NC_001145.3	gmap	exon	651029	653051	88	+	.	gene_id "align_id:24|CL38Contig1_YT"; transcript_id "align_id:24|CL38Contig1_YT|CL38Contig1_YT.path1";
+
+NC_001147.6	gmap	transcript	370259	371366	.	-	.	gene_id "align_id:26|CL41Contig1_YT"; transcript_id "align_id:26|CL41Contig1_YT|CL41Contig1_YT.path1";
+NC_001147.6	gmap	exon	370259	370871	83	-	.	gene_id "align_id:26|CL41Contig1_YT"; transcript_id "align_id:26|CL41Contig1_YT|CL41Contig1_YT.path1";
+NC_001147.6	gmap	exon	371348	371366	100	-	.	gene_id "align_id:26|CL41Contig1_YT"; transcript_id "align_id:26|CL41Contig1_YT|CL41Contig1_YT.path1";
+
+NC_001140.6	gmap	transcript	6378	7501	.	+	.	gene_id "align_id:27|CL25Contig1_YT"; transcript_id "align_id:27|CL25Contig1_YT|CL25Contig1_YT.path1";
+NC_001140.6	gmap	exon	6378	7501	86	+	.	gene_id "align_id:27|CL25Contig1_YT"; transcript_id "align_id:27|CL25Contig1_YT|CL25Contig1_YT.path1";
+
+NC_001145.3	gmap	transcript	8339	8448	.	+	.	gene_id "align_id:28|CL25Contig1_YT"; transcript_id "align_id:28|CL25Contig1_YT|CL25Contig1_YT.path2";
+NC_001145.3	gmap	exon	8339	8448	95	+	.	gene_id "align_id:28|CL25Contig1_YT"; transcript_id "align_id:28|CL25Contig1_YT|CL25Contig1_YT.path2";
+
+NC_001146.8	gmap	transcript	351708	352390	.	+	.	gene_id "align_id:30|CL43Contig1_YT"; transcript_id "align_id:30|CL43Contig1_YT|CL43Contig1_YT.path1";
+NC_001146.8	gmap	exon	351708	352390	86	+	.	gene_id "align_id:30|CL43Contig1_YT"; transcript_id "align_id:30|CL43Contig1_YT|CL43Contig1_YT.path1";
+
+NC_001145.3	gmap	transcript	480711	480942	.	-	.	gene_id "align_id:31|CL2Contig2_YT"; transcript_id "align_id:31|CL2Contig2_YT|CL2Contig2_YT.path1";
+NC_001145.3	gmap	exon	480711	480942	99	-	.	gene_id "align_id:31|CL2Contig2_YT"; transcript_id "align_id:31|CL2Contig2_YT|CL2Contig2_YT.path1";
+
+NC_001141.2	gmap	transcript	202371	210647	.	+	.	gene_id "align_id:32|CL2Contig2_YT"; transcript_id "align_id:32|CL2Contig2_YT|CL2Contig2_YT.path2";
+NC_001141.2	gmap	exon	202371	202376	100	+	.	gene_id "align_id:32|CL2Contig2_YT"; transcript_id "align_id:32|CL2Contig2_YT|CL2Contig2_YT.path2";
+NC_001141.2	gmap	exon	210307	210647	100	+	.	gene_id "align_id:32|CL2Contig2_YT"; transcript_id "align_id:32|CL2Contig2_YT|CL2Contig2_YT.path2";
+
+NC_001139.9	gmap	transcript	452308	456620	.	+	.	gene_id "align_id:35|CL29Contig1_YT"; transcript_id "align_id:35|CL29Contig1_YT|CL29Contig1_YT.path1";
+NC_001139.9	gmap	exon	452308	452867	79	+	.	gene_id "align_id:35|CL29Contig1_YT"; transcript_id "align_id:35|CL29Contig1_YT|CL29Contig1_YT.path1";
+NC_001139.9	gmap	exon	455171	456620	83	+	.	gene_id "align_id:35|CL29Contig1_YT"; transcript_id "align_id:35|CL29Contig1_YT|CL29Contig1_YT.path1";
+
+NC_001139.9	gmap	transcript	454170	457089	.	+	.	gene_id "align_id:36|CL29Contig1_YT"; transcript_id "align_id:36|CL29Contig1_YT|CL29Contig1_YT.path2";
+NC_001139.9	gmap	exon	454170	454284	82	+	.	gene_id "align_id:36|CL29Contig1_YT"; transcript_id "align_id:36|CL29Contig1_YT|CL29Contig1_YT.path2";
+NC_001139.9	gmap	exon	456730	457089	75	+	.	gene_id "align_id:36|CL29Contig1_YT"; transcript_id "align_id:36|CL29Contig1_YT|CL29Contig1_YT.path2";
+
+NC_001134.8	gmap	transcript	341201	341831	.	-	.	gene_id "align_id:37|CL58Contig1_YT"; transcript_id "align_id:37|CL58Contig1_YT|CL58Contig1_YT.path1";
+NC_001134.8	gmap	exon	341201	341831	89	-	.	gene_id "align_id:37|CL58Contig1_YT"; transcript_id "align_id:37|CL58Contig1_YT|CL58Contig1_YT.path1";
+
+NC_001146.8	gmap	transcript	440911	441154	.	-	.	gene_id "align_id:38|CL48Contig1_YT"; transcript_id "align_id:38|CL48Contig1_YT|CL48Contig1_YT.path1";
+NC_001146.8	gmap	exon	440911	441154	82	-	.	gene_id "align_id:38|CL48Contig1_YT"; transcript_id "align_id:38|CL48Contig1_YT|CL48Contig1_YT.path1";
+
+NC_001138.5	gmap	transcript	14418	15803	.	-	.	gene_id "align_id:39|CL52Contig1_YT"; transcript_id "align_id:39|CL52Contig1_YT|CL52Contig1_YT.path1";
+NC_001138.5	gmap	exon	14418	14502	78	-	.	gene_id "align_id:39|CL52Contig1_YT"; transcript_id "align_id:39|CL52Contig1_YT|CL52Contig1_YT.path1";
+NC_001138.5	gmap	exon	15501	15803	79	-	.	gene_id "align_id:39|CL52Contig1_YT"; transcript_id "align_id:39|CL52Contig1_YT|CL52Contig1_YT.path1";
+
+NC_001148.4	gmap	transcript	493033	493087	.	-	.	gene_id "align_id:55|CL87Contig2_YT"; transcript_id "align_id:55|CL87Contig2_YT|CL87Contig2_YT.path2";
+NC_001148.4	gmap	exon	493033	493087	88	-	.	gene_id "align_id:55|CL87Contig2_YT"; transcript_id "align_id:55|CL87Contig2_YT|CL87Contig2_YT.path2";
+
+NC_001146.8	gmap	transcript	332150	332276	.	+	.	gene_id "align_id:57|CL94Contig1_YT"; transcript_id "align_id:57|CL94Contig1_YT|CL94Contig1_YT.path2";
+NC_001146.8	gmap	exon	332150	332276	100	+	.	gene_id "align_id:57|CL94Contig1_YT"; transcript_id "align_id:57|CL94Contig1_YT|CL94Contig1_YT.path2";
+
+NC_001140.6	gmap	transcript	230909	233537	.	+	.	gene_id "align_id:58|CL108Contig1_YT"; transcript_id "align_id:58|CL108Contig1_YT|CL108Contig1_YT.path1";
+NC_001140.6	gmap	exon	230909	230959	88	+	.	gene_id "align_id:58|CL108Contig1_YT"; transcript_id "align_id:58|CL108Contig1_YT|CL108Contig1_YT.path1";
+NC_001140.6	gmap	exon	232063	233537	84	+	.	gene_id "align_id:58|CL108Contig1_YT"; transcript_id "align_id:58|CL108Contig1_YT|CL108Contig1_YT.path1";
+
+NC_001136.10	gmap	transcript	488883	489331	.	-	.	gene_id "align_id:62|CL2Contig1_YT"; transcript_id "align_id:62|CL2Contig1_YT|CL2Contig1_YT.path1";
+NC_001136.10	gmap	exon	488883	489331	98	-	.	gene_id "align_id:62|CL2Contig1_YT"; transcript_id "align_id:62|CL2Contig1_YT|CL2Contig1_YT.path1";
+
+NC_001139.9	gmap	transcript	712206	712549	.	+	.	gene_id "align_id:63|CL2Contig1_YT"; transcript_id "align_id:63|CL2Contig1_YT|CL2Contig1_YT.path2";
+NC_001139.9	gmap	exon	712206	712549	100	+	.	gene_id "align_id:63|CL2Contig1_YT"; transcript_id "align_id:63|CL2Contig1_YT|CL2Contig1_YT.path2";
+
+NC_001147.6	gmap	transcript	637462	642499	.	-	.	gene_id "align_id:64|CL86Contig1_YT"; transcript_id "align_id:64|CL86Contig1_YT|CL86Contig1_YT.path1";
+NC_001147.6	gmap	exon	637462	637531	90	-	.	gene_id "align_id:64|CL86Contig1_YT"; transcript_id "align_id:64|CL86Contig1_YT|CL86Contig1_YT.path1";
+NC_001147.6	gmap	exon	640159	642499	85	-	.	gene_id "align_id:64|CL86Contig1_YT"; transcript_id "align_id:64|CL86Contig1_YT|CL86Contig1_YT.path1";
+
+NC_001147.6	gmap	transcript	638876	640097	.	-	.	gene_id "align_id:65|CL86Contig1_YT"; transcript_id "align_id:65|CL86Contig1_YT|CL86Contig1_YT.path2";
+NC_001147.6	gmap	exon	638876	640097	91	-	.	gene_id "align_id:65|CL86Contig1_YT"; transcript_id "align_id:65|CL86Contig1_YT|CL86Contig1_YT.path2";
+
+NC_001145.3	gmap	transcript	184428	198400	.	+	.	gene_id "align_id:67|CL1Contig1_YT"; transcript_id "align_id:67|CL1Contig1_YT|CL1Contig1_YT.path1";
+NC_001145.3	gmap	exon	184428	184632	89	+	.	gene_id "align_id:67|CL1Contig1_YT"; transcript_id "align_id:67|CL1Contig1_YT|CL1Contig1_YT.path1";
+NC_001145.3	gmap	exon	196798	198400	94	+	.	gene_id "align_id:67|CL1Contig1_YT"; transcript_id "align_id:67|CL1Contig1_YT|CL1Contig1_YT.path1";
+
+NC_001143.9	gmap	transcript	647436	648019	.	+	.	gene_id "align_id:70|CL204Contig1_YT"; transcript_id "align_id:70|CL204Contig1_YT|CL204Contig1_YT.path1";
+NC_001143.9	gmap	exon	647436	647659	96	+	.	gene_id "align_id:70|CL204Contig1_YT"; transcript_id "align_id:70|CL204Contig1_YT|CL204Contig1_YT.path1";
+NC_001143.9	gmap	exon	647958	648019	96	+	.	gene_id "align_id:70|CL204Contig1_YT"; transcript_id "align_id:70|CL204Contig1_YT|CL204Contig1_YT.path1";
+
+NC_001144.5	gmap	transcript	608155	609570	.	-	.	gene_id "align_id:71|CL149Contig1_YT"; transcript_id "align_id:71|CL149Contig1_YT|CL149Contig1_YT.path1";
+NC_001144.5	gmap	exon	608155	609570	88	-	.	gene_id "align_id:71|CL149Contig1_YT"; transcript_id "align_id:71|CL149Contig1_YT|CL149Contig1_YT.path1";
+
+NC_001144.5	gmap	transcript	607109	609794	.	-	.	gene_id "align_id:72|CL149Contig1_YT"; transcript_id "align_id:72|CL149Contig1_YT|CL149Contig1_YT.path2";
+NC_001144.5	gmap	exon	607109	607774	90	-	.	gene_id "align_id:72|CL149Contig1_YT"; transcript_id "align_id:72|CL149Contig1_YT|CL149Contig1_YT.path2";
+NC_001144.5	gmap	exon	609540	609794	81	-	.	gene_id "align_id:72|CL149Contig1_YT"; transcript_id "align_id:72|CL149Contig1_YT|CL149Contig1_YT.path2";
+
+NC_001134.8	gmap	transcript	267362	269596	.	-	.	gene_id "align_id:76|CL232Contig1_YT"; transcript_id "align_id:76|CL232Contig1_YT|CL232Contig1_YT.path1";
+NC_001134.8	gmap	exon	267362	269596	88	-	.	gene_id "align_id:76|CL232Contig1_YT"; transcript_id "align_id:76|CL232Contig1_YT|CL232Contig1_YT.path1";
+
+NC_001146.8	gmap	transcript	598990	602286	.	+	.	gene_id "align_id:77|CL173Contig1_YT"; transcript_id "align_id:77|CL173Contig1_YT|CL173Contig1_YT.path1";
+NC_001146.8	gmap	exon	598990	602286	86	+	.	gene_id "align_id:77|CL173Contig1_YT"; transcript_id "align_id:77|CL173Contig1_YT|CL173Contig1_YT.path1";
+
+NC_001146.8	gmap	transcript	244351	245636	.	+	.	gene_id "align_id:78|CL268Contig1_YT"; transcript_id "align_id:78|CL268Contig1_YT|CL268Contig1_YT.path1";
+NC_001146.8	gmap	exon	244351	245636	89	+	.	gene_id "align_id:78|CL268Contig1_YT"; transcript_id "align_id:78|CL268Contig1_YT|CL268Contig1_YT.path1";
+
+NC_001141.2	gmap	transcript	397637	399353	.	+	.	gene_id "align_id:79|CL258Contig1_YT"; transcript_id "align_id:79|CL258Contig1_YT|CL258Contig1_YT.path1";
+NC_001141.2	gmap	exon	397637	397852	80	+	.	gene_id "align_id:79|CL258Contig1_YT"; transcript_id "align_id:79|CL258Contig1_YT|CL258Contig1_YT.path1";
+NC_001141.2	gmap	exon	398965	399353	77	+	.	gene_id "align_id:79|CL258Contig1_YT"; transcript_id "align_id:79|CL258Contig1_YT|CL258Contig1_YT.path1";
+
+NC_001137.3	gmap	transcript	63638	64080	.	-	.	gene_id "align_id:80|CL176Contig2_YT"; transcript_id "align_id:80|CL176Contig2_YT|CL176Contig2_YT.path1";
+NC_001137.3	gmap	exon	63638	64080	81	-	.	gene_id "align_id:80|CL176Contig2_YT"; transcript_id "align_id:80|CL176Contig2_YT|CL176Contig2_YT.path1";
+
+NC_001137.3	gmap	transcript	62790	64867	.	-	.	gene_id "align_id:81|CL176Contig2_YT"; transcript_id "align_id:81|CL176Contig2_YT|CL176Contig2_YT.path2";
+NC_001137.3	gmap	exon	62790	62975	78	-	.	gene_id "align_id:81|CL176Contig2_YT"; transcript_id "align_id:81|CL176Contig2_YT|CL176Contig2_YT.path2";
+NC_001137.3	gmap	exon	64153	64867	80	-	.	gene_id "align_id:81|CL176Contig2_YT"; transcript_id "align_id:81|CL176Contig2_YT|CL176Contig2_YT.path2";
+
+NC_001147.6	gmap	transcript	627828	630720	.	-	.	gene_id "align_id:83|CL262Contig1_YT"; transcript_id "align_id:83|CL262Contig1_YT|CL262Contig1_YT.path1";
+NC_001147.6	gmap	exon	627828	627866	97	-	.	gene_id "align_id:83|CL262Contig1_YT"; transcript_id "align_id:83|CL262Contig1_YT|CL262Contig1_YT.path1";
+NC_001147.6	gmap	exon	630131	630720	95	-	.	gene_id "align_id:83|CL262Contig1_YT"; transcript_id "align_id:83|CL262Contig1_YT|CL262Contig1_YT.path1";
+
+NC_001147.6	gmap	transcript	627962	630101	.	-	.	gene_id "align_id:84|CL262Contig1_YT"; transcript_id "align_id:84|CL262Contig1_YT|CL262Contig1_YT.path2";
+NC_001147.6	gmap	exon	627962	630101	90	-	.	gene_id "align_id:84|CL262Contig1_YT"; transcript_id "align_id:84|CL262Contig1_YT|CL262Contig1_YT.path2";
+
+NC_001145.3	gmap	transcript	110971	111917	.	+	.	gene_id "align_id:85|CL275Contig1_YT"; transcript_id "align_id:85|CL275Contig1_YT|CL275Contig1_YT.path1";
+NC_001145.3	gmap	exon	110971	111917	87	+	.	gene_id "align_id:85|CL275Contig1_YT"; transcript_id "align_id:85|CL275Contig1_YT|CL275Contig1_YT.path1";
+
+NC_001147.6	gmap	transcript	1026809	1028072	.	+	.	gene_id "align_id:88|CL281Contig1_YT"; transcript_id "align_id:88|CL281Contig1_YT|CL281Contig1_YT.path1";
+NC_001147.6	gmap	exon	1026809	1028072	88	+	.	gene_id "align_id:88|CL281Contig1_YT"; transcript_id "align_id:88|CL281Contig1_YT|CL281Contig1_YT.path1";
+
+NC_001139.9	gmap	transcript	953937	958501	.	-	.	gene_id "align_id:91|CL133Contig1_YT"; transcript_id "align_id:91|CL133Contig1_YT|CL133Contig1_YT.path1";
+NC_001139.9	gmap	exon	953937	954631	77	-	.	gene_id "align_id:91|CL133Contig1_YT"; transcript_id "align_id:91|CL133Contig1_YT|CL133Contig1_YT.path1";
+NC_001139.9	gmap	exon	956519	958501	97	-	.	gene_id "align_id:91|CL133Contig1_YT"; transcript_id "align_id:91|CL133Contig1_YT|CL133Contig1_YT.path1";
+
+NC_001136.10	gmap	transcript	610361	612052	.	+	.	gene_id "align_id:92|CL301Contig1_YT"; transcript_id "align_id:92|CL301Contig1_YT|CL301Contig1_YT.path1";
+NC_001136.10	gmap	exon	610361	612052	85	+	.	gene_id "align_id:92|CL301Contig1_YT"; transcript_id "align_id:92|CL301Contig1_YT|CL301Contig1_YT.path1";
+
+NC_001141.2	gmap	transcript	350264	350578	.	+	.	gene_id "align_id:93|CL309Contig1_YT"; transcript_id "align_id:93|CL309Contig1_YT|CL309Contig1_YT.path1";
+NC_001141.2	gmap	exon	350264	350578	90	+	.	gene_id "align_id:93|CL309Contig1_YT"; transcript_id "align_id:93|CL309Contig1_YT|CL309Contig1_YT.path1";
+
+NC_001141.2	gmap	transcript	350240	350674	.	+	.	gene_id "align_id:94|CL309Contig1_YT"; transcript_id "align_id:94|CL309Contig1_YT|CL309Contig1_YT.path2";
+NC_001141.2	gmap	exon	350240	350324	89	+	.	gene_id "align_id:94|CL309Contig1_YT"; transcript_id "align_id:94|CL309Contig1_YT|CL309Contig1_YT.path2";
+NC_001141.2	gmap	exon	350653	350674	100	+	.	gene_id "align_id:94|CL309Contig1_YT"; transcript_id "align_id:94|CL309Contig1_YT|CL309Contig1_YT.path2";
+
+NC_001146.8	gmap	transcript	576205	577220	.	+	.	gene_id "align_id:96|CL313Contig1_YT"; transcript_id "align_id:96|CL313Contig1_YT|CL313Contig1_YT.path1";
+NC_001146.8	gmap	exon	576205	576329	81	+	.	gene_id "align_id:96|CL313Contig1_YT"; transcript_id "align_id:96|CL313Contig1_YT|CL313Contig1_YT.path1";
+NC_001146.8	gmap	exon	576755	577220	82	+	.	gene_id "align_id:96|CL313Contig1_YT"; transcript_id "align_id:96|CL313Contig1_YT|CL313Contig1_YT.path1";
+
+NC_001144.5	gmap	transcript	617495	621672	.	+	.	gene_id "align_id:97|CL231Contig1_YT"; transcript_id "align_id:97|CL231Contig1_YT|CL231Contig1_YT.path1";
+NC_001144.5	gmap	exon	617495	617875	88	+	.	gene_id "align_id:97|CL231Contig1_YT"; transcript_id "align_id:97|CL231Contig1_YT|CL231Contig1_YT.path1";
+NC_001144.5	gmap	exon	620336	621672	80	+	.	gene_id "align_id:97|CL231Contig1_YT"; transcript_id "align_id:97|CL231Contig1_YT|CL231Contig1_YT.path1";
+
+NC_001144.5	gmap	transcript	619060	629567	.	+	.	gene_id "align_id:98|CL231Contig1_YT"; transcript_id "align_id:98|CL231Contig1_YT|CL231Contig1_YT.path2";
+NC_001144.5	gmap	exon	619060	619715	81	+	.	gene_id "align_id:98|CL231Contig1_YT"; transcript_id "align_id:98|CL231Contig1_YT|CL231Contig1_YT.path2";
+NC_001144.5	gmap	exon	622283	622401	92	+	.	gene_id "align_id:98|CL231Contig1_YT"; transcript_id "align_id:98|CL231Contig1_YT|CL231Contig1_YT.path2";
+NC_001144.5	gmap	exon	629561	629567	100	+	.	gene_id "align_id:98|CL231Contig1_YT"; transcript_id "align_id:98|CL231Contig1_YT|CL231Contig1_YT.path2";
+
+NC_001148.4	gmap	transcript	544518	548466	.	+	.	gene_id "align_id:99|CL304Contig1_YT"; transcript_id "align_id:99|CL304Contig1_YT|CL304Contig1_YT.path1";
+NC_001148.4	gmap	exon	544518	548466	89	+	.	gene_id "align_id:99|CL304Contig1_YT"; transcript_id "align_id:99|CL304Contig1_YT|CL304Contig1_YT.path1";
+
+NC_001134.8	gmap	transcript	635025	636645	.	+	.	gene_id "align_id:100|CL284Contig1_YT"; transcript_id "align_id:100|CL284Contig1_YT|CL284Contig1_YT.path1";
+NC_001134.8	gmap	exon	635025	636645	77	+	.	gene_id "align_id:100|CL284Contig1_YT"; transcript_id "align_id:100|CL284Contig1_YT|CL284Contig1_YT.path1";
+
+NC_001141.2	gmap	transcript	272830	274971	.	-	.	gene_id "align_id:102|CL316Contig1_YT"; transcript_id "align_id:102|CL316Contig1_YT|CL316Contig1_YT.path1";
+NC_001141.2	gmap	exon	272830	273889	79	-	.	gene_id "align_id:102|CL316Contig1_YT"; transcript_id "align_id:102|CL316Contig1_YT|CL316Contig1_YT.path1";
+NC_001141.2	gmap	exon	274919	274971	89	-	.	gene_id "align_id:102|CL316Contig1_YT"; transcript_id "align_id:102|CL316Contig1_YT|CL316Contig1_YT.path1";
+
+NC_001142.9	gmap	transcript	227793	228488	.	-	.	gene_id "align_id:110|CL397Contig1_YT"; transcript_id "align_id:110|CL397Contig1_YT|CL397Contig1_YT.path1";
+NC_001142.9	gmap	exon	227793	227827	91	-	.	gene_id "align_id:110|CL397Contig1_YT"; transcript_id "align_id:110|CL397Contig1_YT|CL397Contig1_YT.path1";
+NC_001142.9	gmap	exon	228112	228488	84	-	.	gene_id "align_id:110|CL397Contig1_YT"; transcript_id "align_id:110|CL397Contig1_YT|CL397Contig1_YT.path1";
+
+NC_001136.10	gmap	transcript	771348	775903	.	+	.	gene_id "align_id:117|CL148Contig1_YT"; transcript_id "align_id:117|CL148Contig1_YT|CL148Contig1_YT.path1";
+NC_001136.10	gmap	exon	771348	771613	74	+	.	gene_id "align_id:117|CL148Contig1_YT"; transcript_id "align_id:117|CL148Contig1_YT|CL148Contig1_YT.path1";
+NC_001136.10	gmap	exon	773393	775903	98	+	.	gene_id "align_id:117|CL148Contig1_YT"; transcript_id "align_id:117|CL148Contig1_YT|CL148Contig1_YT.path1";
+
+NC_001140.6	gmap	transcript	493875	496938	.	+	.	gene_id "align_id:119|CL448Contig1_YT"; transcript_id "align_id:119|CL448Contig1_YT|CL448Contig1_YT.path1";
+NC_001140.6	gmap	exon	493875	496938	88	+	.	gene_id "align_id:119|CL448Contig1_YT"; transcript_id "align_id:119|CL448Contig1_YT|CL448Contig1_YT.path1";
+
+NC_001141.2	gmap	transcript	149235	150279	.	-	.	gene_id "align_id:120|CL443Contig1_YT"; transcript_id "align_id:120|CL443Contig1_YT|CL443Contig1_YT.path1";
+NC_001141.2	gmap	exon	149235	150279	85	-	.	gene_id "align_id:120|CL443Contig1_YT"; transcript_id "align_id:120|CL443Contig1_YT|CL443Contig1_YT.path1";
+
+NC_001141.2	gmap	transcript	150080	150322	.	-	.	gene_id "align_id:121|CL443Contig1_YT"; transcript_id "align_id:121|CL443Contig1_YT|CL443Contig1_YT.path2";
+NC_001141.2	gmap	exon	150080	150322	85	-	.	gene_id "align_id:121|CL443Contig1_YT"; transcript_id "align_id:121|CL443Contig1_YT|CL443Contig1_YT.path2";
+
+NC_001146.8	gmap	transcript	178986	181191	.	-	.	gene_id "align_id:122|CL471Contig1_YT"; transcript_id "align_id:122|CL471Contig1_YT|CL471Contig1_YT.path1";
+NC_001146.8	gmap	exon	178986	181191	87	-	.	gene_id "align_id:122|CL471Contig1_YT"; transcript_id "align_id:122|CL471Contig1_YT|CL471Contig1_YT.path1";
+
+NC_001146.8	gmap	transcript	227336	229105	.	+	.	gene_id "align_id:124|CL474Contig1_YT"; transcript_id "align_id:124|CL474Contig1_YT|CL474Contig1_YT.path1";
+NC_001146.8	gmap	exon	227336	229105	89	+	.	gene_id "align_id:124|CL474Contig1_YT"; transcript_id "align_id:124|CL474Contig1_YT|CL474Contig1_YT.path1";
+
+NC_001145.3	gmap	transcript	460569	462690	.	-	.	gene_id "align_id:125|CL472Contig1_YT"; transcript_id "align_id:125|CL472Contig1_YT|CL472Contig1_YT.path1";
+NC_001145.3	gmap	exon	460569	462690	89	-	.	gene_id "align_id:125|CL472Contig1_YT"; transcript_id "align_id:125|CL472Contig1_YT|CL472Contig1_YT.path1";
+
+NC_001134.8	gmap	transcript	396355	400610	.	-	.	gene_id "align_id:129|CL340Contig1_YT"; transcript_id "align_id:129|CL340Contig1_YT|CL340Contig1_YT.path1";
+NC_001134.8	gmap	exon	396355	397732	84	-	.	gene_id "align_id:129|CL340Contig1_YT"; transcript_id "align_id:129|CL340Contig1_YT|CL340Contig1_YT.path1";
+NC_001134.8	gmap	exon	400478	400610	82	-	.	gene_id "align_id:129|CL340Contig1_YT"; transcript_id "align_id:129|CL340Contig1_YT|CL340Contig1_YT.path1";
+
+NC_001134.8	gmap	transcript	395119	399331	.	-	.	gene_id "align_id:130|CL340Contig1_YT"; transcript_id "align_id:130|CL340Contig1_YT|CL340Contig1_YT.path2";
+NC_001134.8	gmap	exon	395119	396165	86	-	.	gene_id "align_id:130|CL340Contig1_YT"; transcript_id "align_id:130|CL340Contig1_YT|CL340Contig1_YT.path2";
+NC_001134.8	gmap	exon	399105	399331	84	-	.	gene_id "align_id:130|CL340Contig1_YT"; transcript_id "align_id:130|CL340Contig1_YT|CL340Contig1_YT.path2";
+
+NC_001146.8	gmap	transcript	424773	429797	.	-	.	gene_id "align_id:139|CL777Contig1_YT"; transcript_id "align_id:139|CL777Contig1_YT|CL777Contig1_YT.path1";
+NC_001146.8	gmap	exon	424773	427016	96	-	.	gene_id "align_id:139|CL777Contig1_YT"; transcript_id "align_id:139|CL777Contig1_YT|CL777Contig1_YT.path1";
+NC_001146.8	gmap	exon	429778	429797	100	-	.	gene_id "align_id:139|CL777Contig1_YT"; transcript_id "align_id:139|CL777Contig1_YT|CL777Contig1_YT.path1";
+
+NC_001134.8	gmap	transcript	339423	340775	.	-	.	gene_id "align_id:140|CL743Contig1_YT"; transcript_id "align_id:140|CL743Contig1_YT|CL743Contig1_YT.path1";
+NC_001134.8	gmap	exon	339423	340775	85	-	.	gene_id "align_id:140|CL743Contig1_YT"; transcript_id "align_id:140|CL743Contig1_YT|CL743Contig1_YT.path1";
+
+NC_001136.10	gmap	transcript	1504315	1506857	.	-	.	gene_id "align_id:148|CL953Contig1_YT"; transcript_id "align_id:148|CL953Contig1_YT|CL953Contig1_YT.path1";
+NC_001136.10	gmap	exon	1504315	1506857	87	-	.	gene_id "align_id:148|CL953Contig1_YT"; transcript_id "align_id:148|CL953Contig1_YT|CL953Contig1_YT.path1";
+
+NC_001139.9	gmap	transcript	6252	6899	.	-	.	gene_id "align_id:149|CL941Contig1_YT"; transcript_id "align_id:149|CL941Contig1_YT|CL941Contig1_YT.path1";
+NC_001139.9	gmap	exon	6252	6899	87	-	.	gene_id "align_id:149|CL941Contig1_YT"; transcript_id "align_id:149|CL941Contig1_YT|CL941Contig1_YT.path1";
+
+NC_001140.6	gmap	transcript	11835	11884	.	-	.	gene_id "align_id:150|CL941Contig1_YT"; transcript_id "align_id:150|CL941Contig1_YT|CL941Contig1_YT.path2";
+NC_001140.6	gmap	exon	11835	11884	84	-	.	gene_id "align_id:150|CL941Contig1_YT"; transcript_id "align_id:150|CL941Contig1_YT|CL941Contig1_YT.path2";
+
+NC_001133.9	gmap	transcript	129207	130784	.	+	.	gene_id "align_id:153|CL1087Contig1_YT"; transcript_id "align_id:153|CL1087Contig1_YT|CL1087Contig1_YT.path1";
+NC_001133.9	gmap	exon	129207	130784	85	+	.	gene_id "align_id:153|CL1087Contig1_YT"; transcript_id "align_id:153|CL1087Contig1_YT|CL1087Contig1_YT.path1";
+
+NC_001143.9	gmap	transcript	510799	513383	.	-	.	gene_id "align_id:154|CL736Contig1_YT"; transcript_id "align_id:154|CL736Contig1_YT|CL736Contig1_YT.path1";
+NC_001143.9	gmap	exon	510799	511018	79	-	.	gene_id "align_id:154|CL736Contig1_YT"; transcript_id "align_id:154|CL736Contig1_YT|CL736Contig1_YT.path1";
+NC_001143.9	gmap	exon	512098	513383	86	-	.	gene_id "align_id:154|CL736Contig1_YT"; transcript_id "align_id:154|CL736Contig1_YT|CL736Contig1_YT.path1";
+
+NC_001143.9	gmap	transcript	511839	511898	.	-	.	gene_id "align_id:155|CL736Contig1_YT"; transcript_id "align_id:155|CL736Contig1_YT|CL736Contig1_YT.path2";
+NC_001143.9	gmap	exon	511839	511898	93	-	.	gene_id "align_id:155|CL736Contig1_YT"; transcript_id "align_id:155|CL736Contig1_YT|CL736Contig1_YT.path2";
+
+NC_001138.5	gmap	transcript	92659	95151	.	-	.	gene_id "align_id:156|CL912Contig1_YT"; transcript_id "align_id:156|CL912Contig1_YT|CL912Contig1_YT.path1";
+NC_001138.5	gmap	exon	92659	93446	82	-	.	gene_id "align_id:156|CL912Contig1_YT"; transcript_id "align_id:156|CL912Contig1_YT|CL912Contig1_YT.path1";
+NC_001138.5	gmap	exon	95132	95151	100	-	.	gene_id "align_id:156|CL912Contig1_YT"; transcript_id "align_id:156|CL912Contig1_YT|CL912Contig1_YT.path1";
+
+NC_001138.5	gmap	transcript	91289	94533	.	-	.	gene_id "align_id:157|CL912Contig1_YT"; transcript_id "align_id:157|CL912Contig1_YT|CL912Contig1_YT.path2";
+NC_001138.5	gmap	exon	91289	92417	89	-	.	gene_id "align_id:157|CL912Contig1_YT"; transcript_id "align_id:157|CL912Contig1_YT|CL912Contig1_YT.path2";
+NC_001138.5	gmap	exon	92478	92610	56	-	.	gene_id "align_id:157|CL912Contig1_YT"; transcript_id "align_id:157|CL912Contig1_YT|CL912Contig1_YT.path2";
+NC_001138.5	gmap	exon	92989	93020	62	-	.	gene_id "align_id:157|CL912Contig1_YT"; transcript_id "align_id:157|CL912Contig1_YT|CL912Contig1_YT.path2";
+NC_001138.5	gmap	exon	94184	94211	64	-	.	gene_id "align_id:157|CL912Contig1_YT"; transcript_id "align_id:157|CL912Contig1_YT|CL912Contig1_YT.path2";
+NC_001138.5	gmap	exon	94444	94533	67	-	.	gene_id "align_id:157|CL912Contig1_YT"; transcript_id "align_id:157|CL912Contig1_YT|CL912Contig1_YT.path2";
+
+NC_001143.9	gmap	transcript	135538	137762	.	-	.	gene_id "align_id:158|CL1262Contig1_YT"; transcript_id "align_id:158|CL1262Contig1_YT|CL1262Contig1_YT.path1";
+NC_001143.9	gmap	exon	135538	137762	84	-	.	gene_id "align_id:158|CL1262Contig1_YT"; transcript_id "align_id:158|CL1262Contig1_YT|CL1262Contig1_YT.path1";
+
+NC_001139.9	gmap	transcript	830350	832290	.	+	.	gene_id "align_id:166|CL1509Contig1_YT"; transcript_id "align_id:166|CL1509Contig1_YT|CL1509Contig1_YT.path1";
+NC_001139.9	gmap	exon	830350	832290	87	+	.	gene_id "align_id:166|CL1509Contig1_YT"; transcript_id "align_id:166|CL1509Contig1_YT|CL1509Contig1_YT.path1";
+
+NC_001147.6	gmap	transcript	894222	896456	.	-	.	gene_id "align_id:167|CL1268Contig1_YT"; transcript_id "align_id:167|CL1268Contig1_YT|CL1268Contig1_YT.path1";
+NC_001147.6	gmap	exon	894222	894363	91	-	.	gene_id "align_id:167|CL1268Contig1_YT"; transcript_id "align_id:167|CL1268Contig1_YT|CL1268Contig1_YT.path1";
+NC_001147.6	gmap	exon	896015	896456	85	-	.	gene_id "align_id:167|CL1268Contig1_YT"; transcript_id "align_id:167|CL1268Contig1_YT|CL1268Contig1_YT.path1";
+
+NC_001147.6	gmap	transcript	893871	895880	.	-	.	gene_id "align_id:168|CL1268Contig1_YT"; transcript_id "align_id:168|CL1268Contig1_YT|CL1268Contig1_YT.path2";
+NC_001147.6	gmap	exon	893871	893990	87	-	.	gene_id "align_id:168|CL1268Contig1_YT"; transcript_id "align_id:168|CL1268Contig1_YT|CL1268Contig1_YT.path2";
+NC_001147.6	gmap	exon	895619	895880	84	-	.	gene_id "align_id:168|CL1268Contig1_YT"; transcript_id "align_id:168|CL1268Contig1_YT|CL1268Contig1_YT.path2";
+
+NC_001148.4	gmap	transcript	205042	206573	.	+	.	gene_id "align_id:169|CL1400Contig1_YT"; transcript_id "align_id:169|CL1400Contig1_YT|CL1400Contig1_YT.path1";
+NC_001148.4	gmap	exon	205042	206487	86	+	.	gene_id "align_id:169|CL1400Contig1_YT"; transcript_id "align_id:169|CL1400Contig1_YT|CL1400Contig1_YT.path1";
+NC_001148.4	gmap	exon	206572	206573	100	+	.	gene_id "align_id:169|CL1400Contig1_YT"; transcript_id "align_id:169|CL1400Contig1_YT|CL1400Contig1_YT.path1";
+
+NC_001148.4	gmap	transcript	204273	207915	.	+	.	gene_id "align_id:170|CL1400Contig1_YT"; transcript_id "align_id:170|CL1400Contig1_YT|CL1400Contig1_YT.path2";
+NC_001148.4	gmap	exon	204273	204422	84	+	.	gene_id "align_id:170|CL1400Contig1_YT"; transcript_id "align_id:170|CL1400Contig1_YT|CL1400Contig1_YT.path2";
+NC_001148.4	gmap	exon	206635	207915	90	+	.	gene_id "align_id:170|CL1400Contig1_YT"; transcript_id "align_id:170|CL1400Contig1_YT|CL1400Contig1_YT.path2";
+
+NC_001134.8	gmap	transcript	628525	629622	.	+	.	gene_id "align_id:171|CL509Contig1_YT"; transcript_id "align_id:171|CL509Contig1_YT|CL509Contig1_YT.path1";
+NC_001134.8	gmap	exon	628525	629622	83	+	.	gene_id "align_id:171|CL509Contig1_YT"; transcript_id "align_id:171|CL509Contig1_YT|CL509Contig1_YT.path1";
+
+NC_001140.6	gmap	transcript	458727	462263	.	+	.	gene_id "align_id:172|CL1526Contig1_YT"; transcript_id "align_id:172|CL1526Contig1_YT|CL1526Contig1_YT.path1";
+NC_001140.6	gmap	exon	458727	462263	84	+	.	gene_id "align_id:172|CL1526Contig1_YT"; transcript_id "align_id:172|CL1526Contig1_YT|CL1526Contig1_YT.path1";
+
+NC_001141.2	gmap	transcript	99383	100524	.	-	.	gene_id "align_id:174|CL1660Contig1_YT"; transcript_id "align_id:174|CL1660Contig1_YT|CL1660Contig1_YT.path1";
+NC_001141.2	gmap	exon	99383	100524	80	-	.	gene_id "align_id:174|CL1660Contig1_YT"; transcript_id "align_id:174|CL1660Contig1_YT|CL1660Contig1_YT.path1";
+
+NC_001140.6	gmap	transcript	214955	215186	.	+	.	gene_id "align_id:178|CL1695Contig1_YT"; transcript_id "align_id:178|CL1695Contig1_YT|CL1695Contig1_YT.path1";
+NC_001140.6	gmap	exon	214955	215186	99	+	.	gene_id "align_id:178|CL1695Contig1_YT"; transcript_id "align_id:178|CL1695Contig1_YT|CL1695Contig1_YT.path1";
+
+NC_001140.6	gmap	transcript	212026	212180	.	+	.	gene_id "align_id:179|CL1695Contig1_YT"; transcript_id "align_id:179|CL1695Contig1_YT|CL1695Contig1_YT.path2";
+NC_001140.6	gmap	exon	212026	212180	98	+	.	gene_id "align_id:179|CL1695Contig1_YT"; transcript_id "align_id:179|CL1695Contig1_YT|CL1695Contig1_YT.path2";
+
+NC_001145.3	gmap	transcript	357361	378460	.	-	.	gene_id "align_id:180|CL1Contig7_YT"; transcript_id "align_id:180|CL1Contig7_YT|CL1Contig7_YT.path1";
+NC_001145.3	gmap	exon	357361	362562	98	-	.	gene_id "align_id:180|CL1Contig7_YT"; transcript_id "align_id:180|CL1Contig7_YT|CL1Contig7_YT.path1";
+NC_001145.3	gmap	exon	378259	378460	97	-	.	gene_id "align_id:180|CL1Contig7_YT"; transcript_id "align_id:180|CL1Contig7_YT|CL1Contig7_YT.path1";
+
+NC_001146.8	gmap	transcript	216311	218750	.	-	.	gene_id "align_id:193|CL1544Contig1_YT"; transcript_id "align_id:193|CL1544Contig1_YT|CL1544Contig1_YT.path1";
+NC_001146.8	gmap	exon	216311	216664	70	-	.	gene_id "align_id:193|CL1544Contig1_YT"; transcript_id "align_id:193|CL1544Contig1_YT|CL1544Contig1_YT.path1";
+NC_001146.8	gmap	exon	218073	218750	83	-	.	gene_id "align_id:193|CL1544Contig1_YT"; transcript_id "align_id:193|CL1544Contig1_YT|CL1544Contig1_YT.path1";
+
+NC_001146.8	gmap	transcript	215813	217717	.	-	.	gene_id "align_id:194|CL1544Contig1_YT"; transcript_id "align_id:194|CL1544Contig1_YT|CL1544Contig1_YT.path2";
+NC_001146.8	gmap	exon	215813	216067	84	-	.	gene_id "align_id:194|CL1544Contig1_YT"; transcript_id "align_id:194|CL1544Contig1_YT|CL1544Contig1_YT.path2";
+NC_001146.8	gmap	exon	217393	217717	91	-	.	gene_id "align_id:194|CL1544Contig1_YT"; transcript_id "align_id:194|CL1544Contig1_YT|CL1544Contig1_YT.path2";
+
+NC_001146.8	gmap	transcript	335357	336985	.	-	.	gene_id "align_id:197|CL1688Contig1_YT"; transcript_id "align_id:197|CL1688Contig1_YT|CL1688Contig1_YT.path1";
+NC_001146.8	gmap	exon	335357	335977	77	-	.	gene_id "align_id:197|CL1688Contig1_YT"; transcript_id "align_id:197|CL1688Contig1_YT|CL1688Contig1_YT.path1";
+NC_001146.8	gmap	exon	336835	336985	79	-	.	gene_id "align_id:197|CL1688Contig1_YT"; transcript_id "align_id:197|CL1688Contig1_YT|CL1688Contig1_YT.path1";
+
+NC_001146.8	gmap	transcript	335863	336206	.	-	.	gene_id "align_id:198|CL1688Contig1_YT"; transcript_id "align_id:198|CL1688Contig1_YT|CL1688Contig1_YT.path2";
+NC_001146.8	gmap	exon	335863	336206	91	-	.	gene_id "align_id:198|CL1688Contig1_YT"; transcript_id "align_id:198|CL1688Contig1_YT|CL1688Contig1_YT.path2";
+
+NC_001136.10	gmap	transcript	1160847	1164968	.	-	.	gene_id "align_id:268|CL1316Contig1_YT"; transcript_id "align_id:268|CL1316Contig1_YT|CL1316Contig1_YT.path1";
+NC_001136.10	gmap	exon	1160847	1160984	79	-	.	gene_id "align_id:268|CL1316Contig1_YT"; transcript_id "align_id:268|CL1316Contig1_YT|CL1316Contig1_YT.path1";
+NC_001136.10	gmap	exon	1162607	1162783	82	-	.	gene_id "align_id:268|CL1316Contig1_YT"; transcript_id "align_id:268|CL1316Contig1_YT|CL1316Contig1_YT.path1";
+NC_001136.10	gmap	exon	1164498	1164968	83	-	.	gene_id "align_id:268|CL1316Contig1_YT"; transcript_id "align_id:268|CL1316Contig1_YT|CL1316Contig1_YT.path1";
+
+NC_001136.10	gmap	transcript	1159671	1162521	.	-	.	gene_id "align_id:269|CL1316Contig1_YT"; transcript_id "align_id:269|CL1316Contig1_YT|CL1316Contig1_YT.path2";
+NC_001136.10	gmap	exon	1159671	1160088	83	-	.	gene_id "align_id:269|CL1316Contig1_YT"; transcript_id "align_id:269|CL1316Contig1_YT|CL1316Contig1_YT.path2";
+NC_001136.10	gmap	exon	1161758	1162521	79	-	.	gene_id "align_id:269|CL1316Contig1_YT"; transcript_id "align_id:269|CL1316Contig1_YT|CL1316Contig1_YT.path2";
+
+NC_001147.6	gmap	transcript	575044	578492	.	+	.	gene_id "align_id:321|CL1549Contig1_YT"; transcript_id "align_id:321|CL1549Contig1_YT|CL1549Contig1_YT.path1";
+NC_001147.6	gmap	exon	575044	578492	88	+	.	gene_id "align_id:321|CL1549Contig1_YT"; transcript_id "align_id:321|CL1549Contig1_YT|CL1549Contig1_YT.path1";
+
+NC_001136.10	gmap	transcript	381880	384081	.	-	.	gene_id "align_id:407|Unigene223_YT"; transcript_id "align_id:407|Unigene223_YT|Unigene223_YT.path1";
+NC_001136.10	gmap	exon	381880	383399	98	-	.	gene_id "align_id:407|Unigene223_YT"; transcript_id "align_id:407|Unigene223_YT|Unigene223_YT.path1";
+NC_001136.10	gmap	exon	383953	384081	92	-	.	gene_id "align_id:407|Unigene223_YT"; transcript_id "align_id:407|Unigene223_YT|Unigene223_YT.path1";
+
+NC_001136.10	gmap	transcript	383907	385872	.	-	.	gene_id "align_id:431|Unigene224_YT"; transcript_id "align_id:431|Unigene224_YT|Unigene224_YT.path1";
+NC_001136.10	gmap	exon	383907	383951	82	-	.	gene_id "align_id:431|Unigene224_YT"; transcript_id "align_id:431|Unigene224_YT|Unigene224_YT.path1";
+NC_001136.10	gmap	exon	384253	384347	63	-	.	gene_id "align_id:431|Unigene224_YT"; transcript_id "align_id:431|Unigene224_YT|Unigene224_YT.path1";
+NC_001136.10	gmap	exon	384475	384493	89	-	.	gene_id "align_id:431|Unigene224_YT"; transcript_id "align_id:431|Unigene224_YT|Unigene224_YT.path1";
+NC_001136.10	gmap	exon	384598	384862	97	-	.	gene_id "align_id:431|Unigene224_YT"; transcript_id "align_id:431|Unigene224_YT|Unigene224_YT.path1";
+NC_001136.10	gmap	exon	385025	385872	99	-	.	gene_id "align_id:431|Unigene224_YT"; transcript_id "align_id:431|Unigene224_YT|Unigene224_YT.path1";
+
+NC_001136.10	gmap	transcript	538709	539148	.	-	.	gene_id "align_id:497|Unigene320_YT"; transcript_id "align_id:497|Unigene320_YT|Unigene320_YT.path1";
+NC_001136.10	gmap	exon	538709	539148	88	-	.	gene_id "align_id:497|Unigene320_YT"; transcript_id "align_id:497|Unigene320_YT|Unigene320_YT.path1";
+
+NC_001136.10	gmap	transcript	525315	531282	.	+	.	gene_id "align_id:500|Unigene317_YT"; transcript_id "align_id:500|Unigene317_YT|Unigene317_YT.path1";
+NC_001136.10	gmap	exon	525315	527312	91	+	.	gene_id "align_id:500|Unigene317_YT"; transcript_id "align_id:500|Unigene317_YT|Unigene317_YT.path1";
+NC_001136.10	gmap	exon	531189	531282	84	+	.	gene_id "align_id:500|Unigene317_YT"; transcript_id "align_id:500|Unigene317_YT|Unigene317_YT.path1";
+
+NC_001136.10	gmap	transcript	544535	545718	.	+	.	gene_id "align_id:508|Unigene326_YT"; transcript_id "align_id:508|Unigene326_YT|Unigene326_YT.path1";
+NC_001136.10	gmap	exon	544535	544687	96	+	.	gene_id "align_id:508|Unigene326_YT"; transcript_id "align_id:508|Unigene326_YT|Unigene326_YT.path1";
+NC_001136.10	gmap	exon	544808	545718	98	+	.	gene_id "align_id:508|Unigene326_YT"; transcript_id "align_id:508|Unigene326_YT|Unigene326_YT.path1";
+
+NC_001136.10	gmap	transcript	523074	524807	.	-	.	gene_id "align_id:512|Unigene314_YT"; transcript_id "align_id:512|Unigene314_YT|Unigene314_YT.path1";
+NC_001136.10	gmap	exon	523074	524807	87	-	.	gene_id "align_id:512|Unigene314_YT"; transcript_id "align_id:512|Unigene314_YT|Unigene314_YT.path1";
+
+NC_001136.10	gmap	transcript	527448	538726	.	-	.	gene_id "align_id:558|Unigene318_YT"; transcript_id "align_id:558|Unigene318_YT|Unigene318_YT.path1";
+NC_001136.10	gmap	exon	527448	528483	91	-	.	gene_id "align_id:558|Unigene318_YT"; transcript_id "align_id:558|Unigene318_YT|Unigene318_YT.path1";
+NC_001136.10	gmap	exon	536254	538726	91	-	.	gene_id "align_id:558|Unigene318_YT"; transcript_id "align_id:558|Unigene318_YT|Unigene318_YT.path1";
+
+NC_001136.10	gmap	transcript	531197	531332	.	-	.	gene_id "align_id:559|Unigene318_YT"; transcript_id "align_id:559|Unigene318_YT|Unigene318_YT.path2";
+NC_001136.10	gmap	exon	531197	531332	91	-	.	gene_id "align_id:559|Unigene318_YT"; transcript_id "align_id:559|Unigene318_YT|Unigene318_YT.path2";
+
+NC_001136.10	gmap	transcript	601288	602138	.	+	.	gene_id "align_id:573|Unigene366_YT"; transcript_id "align_id:573|Unigene366_YT|Unigene366_YT.path1";
+NC_001136.10	gmap	exon	601288	602138	99	+	.	gene_id "align_id:573|Unigene366_YT"; transcript_id "align_id:573|Unigene366_YT|Unigene366_YT.path1";
+
+NC_001136.10	gmap	transcript	699736	701759	.	+	.	gene_id "align_id:600|Unigene418_YT"; transcript_id "align_id:600|Unigene418_YT|Unigene418_YT.path1";
+NC_001136.10	gmap	exon	699736	701138	99	+	.	gene_id "align_id:600|Unigene418_YT"; transcript_id "align_id:600|Unigene418_YT|Unigene418_YT.path1";
+NC_001136.10	gmap	exon	701151	701759	97	+	.	gene_id "align_id:600|Unigene418_YT"; transcript_id "align_id:600|Unigene418_YT|Unigene418_YT.path1";
+
+NC_001136.10	gmap	transcript	757879	764272	.	+	.	gene_id "align_id:633|Unigene445_YT"; transcript_id "align_id:633|Unigene445_YT|Unigene445_YT.path1";
+NC_001136.10	gmap	exon	757879	757940	98	+	.	gene_id "align_id:633|Unigene445_YT"; transcript_id "align_id:633|Unigene445_YT|Unigene445_YT.path1";
+NC_001136.10	gmap	exon	759691	764272	99	+	.	gene_id "align_id:633|Unigene445_YT"; transcript_id "align_id:633|Unigene445_YT|Unigene445_YT.path1";
+
+NC_001136.10	gmap	transcript	950503	957071	.	+	.	gene_id "align_id:720|Unigene537_YT"; transcript_id "align_id:720|Unigene537_YT|Unigene537_YT.path1";
+NC_001136.10	gmap	exon	950503	952559	99	+	.	gene_id "align_id:720|Unigene537_YT"; transcript_id "align_id:720|Unigene537_YT|Unigene537_YT.path1";
+NC_001136.10	gmap	exon	957063	957071	100	+	.	gene_id "align_id:720|Unigene537_YT"; transcript_id "align_id:720|Unigene537_YT|Unigene537_YT.path1";
+
+NC_001136.10	gmap	transcript	803203	803709	.	-	.	gene_id "align_id:756|Unigene558_YT"; transcript_id "align_id:756|Unigene558_YT|Unigene558_YT.path1";
+NC_001136.10	gmap	exon	803203	803709	89	-	.	gene_id "align_id:756|Unigene558_YT"; transcript_id "align_id:756|Unigene558_YT|Unigene558_YT.path1";
+
+NC_001136.10	gmap	transcript	755266	759779	.	+	.	gene_id "align_id:772|Unigene444_YT"; transcript_id "align_id:772|Unigene444_YT|Unigene444_YT.path1";
+NC_001136.10	gmap	exon	755266	757449	99	+	.	gene_id "align_id:772|Unigene444_YT"; transcript_id "align_id:772|Unigene444_YT|Unigene444_YT.path1";
+NC_001136.10	gmap	exon	757854	758004	98	+	.	gene_id "align_id:772|Unigene444_YT"; transcript_id "align_id:772|Unigene444_YT|Unigene444_YT.path1";
+NC_001136.10	gmap	exon	758389	758615	87	+	.	gene_id "align_id:772|Unigene444_YT"; transcript_id "align_id:772|Unigene444_YT|Unigene444_YT.path1";
+NC_001136.10	gmap	exon	759193	759398	97	+	.	gene_id "align_id:772|Unigene444_YT"; transcript_id "align_id:772|Unigene444_YT|Unigene444_YT.path1";
+NC_001136.10	gmap	exon	759591	759779	84	+	.	gene_id "align_id:772|Unigene444_YT"; transcript_id "align_id:772|Unigene444_YT|Unigene444_YT.path1";
+
+NC_001136.10	gmap	transcript	1107516	1127624	.	-	.	gene_id "align_id:804|Unigene627_YT"; transcript_id "align_id:804|Unigene627_YT|Unigene627_YT.path1";
+NC_001136.10	gmap	exon	1107516	1107525	100	-	.	gene_id "align_id:804|Unigene627_YT"; transcript_id "align_id:804|Unigene627_YT|Unigene627_YT.path1";
+NC_001136.10	gmap	exon	1126103	1127624	98	-	.	gene_id "align_id:804|Unigene627_YT"; transcript_id "align_id:804|Unigene627_YT|Unigene627_YT.path1";
+
+NC_001136.10	gmap	transcript	1174469	1175700	.	+	.	gene_id "align_id:834|Unigene655_YT"; transcript_id "align_id:834|Unigene655_YT|Unigene655_YT.path1";
+NC_001136.10	gmap	exon	1174469	1175314	98	+	.	gene_id "align_id:834|Unigene655_YT"; transcript_id "align_id:834|Unigene655_YT|Unigene655_YT.path1";
+NC_001136.10	gmap	exon	1175652	1175700	95	+	.	gene_id "align_id:834|Unigene655_YT"; transcript_id "align_id:834|Unigene655_YT|Unigene655_YT.path1";
+
+NC_001136.10	gmap	transcript	1191895	1198832	.	-	.	gene_id "align_id:851|Unigene667_YT"; transcript_id "align_id:851|Unigene667_YT|Unigene667_YT.path1";
+NC_001136.10	gmap	exon	1191895	1191911	88	-	.	gene_id "align_id:851|Unigene667_YT"; transcript_id "align_id:851|Unigene667_YT|Unigene667_YT.path1";
+NC_001136.10	gmap	exon	1196621	1198832	99	-	.	gene_id "align_id:851|Unigene667_YT"; transcript_id "align_id:851|Unigene667_YT|Unigene667_YT.path1";
+
+NC_001136.10	gmap	transcript	1206654	1213785	.	+	.	gene_id "align_id:852|Unigene672_YT"; transcript_id "align_id:852|Unigene672_YT|Unigene672_YT.path1";
+NC_001136.10	gmap	exon	1206654	1206700	95	+	.	gene_id "align_id:852|Unigene672_YT"; transcript_id "align_id:852|Unigene672_YT|Unigene672_YT.path1";
+NC_001136.10	gmap	exon	1212625	1213785	99	+	.	gene_id "align_id:852|Unigene672_YT"; transcript_id "align_id:852|Unigene672_YT|Unigene672_YT.path1";
+
+NC_001136.10	gmap	transcript	1362728	1365110	.	+	.	gene_id "align_id:944|Unigene763_YT"; transcript_id "align_id:944|Unigene763_YT|Unigene763_YT.path1";
+NC_001136.10	gmap	exon	1362728	1364513	99	+	.	gene_id "align_id:944|Unigene763_YT"; transcript_id "align_id:944|Unigene763_YT|Unigene763_YT.path1";
+NC_001136.10	gmap	exon	1364525	1365110	97	+	.	gene_id "align_id:944|Unigene763_YT"; transcript_id "align_id:944|Unigene763_YT|Unigene763_YT.path1";
+
+NC_001136.10	gmap	transcript	1497927	1498164	.	+	.	gene_id "align_id:1017|Unigene840_YT"; transcript_id "align_id:1017|Unigene840_YT|Unigene840_YT.path1";
+NC_001136.10	gmap	exon	1497927	1498164	89	+	.	gene_id "align_id:1017|Unigene840_YT"; transcript_id "align_id:1017|Unigene840_YT|Unigene840_YT.path1";
+
+NC_001136.10	gmap	transcript	1307628	1311917	.	+	.	gene_id "align_id:1021|Unigene736_YT"; transcript_id "align_id:1021|Unigene736_YT|Unigene736_YT.path1";
+NC_001136.10	gmap	exon	1307628	1311917	91	+	.	gene_id "align_id:1021|Unigene736_YT"; transcript_id "align_id:1021|Unigene736_YT|Unigene736_YT.path1";
+
+NC_001148.4	gmap	transcript	927093	930612	.	+	.	gene_id "align_id:1050|Unigene865_YT"; transcript_id "align_id:1050|Unigene865_YT|Unigene865_YT.path1";
+NC_001148.4	gmap	exon	927093	927317	97	+	.	gene_id "align_id:1050|Unigene865_YT"; transcript_id "align_id:1050|Unigene865_YT|Unigene865_YT.path1";
+NC_001148.4	gmap	exon	927344	930612	96	+	.	gene_id "align_id:1050|Unigene865_YT"; transcript_id "align_id:1050|Unigene865_YT|Unigene865_YT.path1";
+
+NC_001148.4	gmap	transcript	921916	922557	.	-	.	gene_id "align_id:1057|Unigene860_YT"; transcript_id "align_id:1057|Unigene860_YT|Unigene860_YT.path1";
+NC_001148.4	gmap	exon	921916	922557	99	-	.	gene_id "align_id:1057|Unigene860_YT"; transcript_id "align_id:1057|Unigene860_YT|Unigene860_YT.path1";
+
+NC_001145.3	gmap	transcript	923979	924409	.	-	.	gene_id "align_id:1058|Unigene860_YT"; transcript_id "align_id:1058|Unigene860_YT|Unigene860_YT.path2";
+NC_001145.3	gmap	exon	923979	924312	83	-	.	gene_id "align_id:1058|Unigene860_YT"; transcript_id "align_id:1058|Unigene860_YT|Unigene860_YT.path2";
+NC_001145.3	gmap	exon	924382	924409	78	-	.	gene_id "align_id:1058|Unigene860_YT"; transcript_id "align_id:1058|Unigene860_YT|Unigene860_YT.path2";
+
+NC_001134.8	gmap	transcript	793815	793949	.	-	.	gene_id "align_id:1060|Unigene884_YT"; transcript_id "align_id:1060|Unigene884_YT|Unigene884_YT.path1";
+NC_001134.8	gmap	exon	793815	793949	77	-	.	gene_id "align_id:1060|Unigene884_YT"; transcript_id "align_id:1060|Unigene884_YT|Unigene884_YT.path1";
+
+NC_001141.2	gmap	transcript	39004	39178	.	-	.	gene_id "align_id:1066|Unigene881_YT"; transcript_id "align_id:1066|Unigene881_YT|Unigene881_YT.path1";
+NC_001141.2	gmap	exon	39004	39178	96	-	.	gene_id "align_id:1066|Unigene881_YT"; transcript_id "align_id:1066|Unigene881_YT|Unigene881_YT.path1";
+
+NC_001141.2	gmap	transcript	438102	439000	.	+	.	gene_id "align_id:1069|Unigene887_YT"; transcript_id "align_id:1069|Unigene887_YT|Unigene887_YT.path1";
+NC_001141.2	gmap	exon	438102	439000	88	+	.	gene_id "align_id:1069|Unigene887_YT"; transcript_id "align_id:1069|Unigene887_YT|Unigene887_YT.path1";
+
+NC_001139.9	gmap	transcript	1055250	1060584	.	+	.	gene_id "align_id:1081|Unigene909_YT"; transcript_id "align_id:1081|Unigene909_YT|Unigene909_YT.path1";
+NC_001139.9	gmap	exon	1055250	1055257	100	+	.	gene_id "align_id:1081|Unigene909_YT"; transcript_id "align_id:1081|Unigene909_YT|Unigene909_YT.path1";
+NC_001139.9	gmap	exon	1060376	1060584	99	+	.	gene_id "align_id:1081|Unigene909_YT"; transcript_id "align_id:1081|Unigene909_YT|Unigene909_YT.path1";
+
+NC_001134.8	gmap	transcript	801639	802172	.	+	.	gene_id "align_id:1094|Unigene893_YT"; transcript_id "align_id:1094|Unigene893_YT|Unigene893_YT.path1";
+NC_001134.8	gmap	exon	801639	802172	92	+	.	gene_id "align_id:1094|Unigene893_YT"; transcript_id "align_id:1094|Unigene893_YT|Unigene893_YT.path1";
+
+NC_001141.2	gmap	transcript	7480	7613	.	+	.	gene_id "align_id:1096|Unigene886_YT"; transcript_id "align_id:1096|Unigene886_YT|Unigene886_YT.path1";
+NC_001141.2	gmap	exon	7480	7613	95	+	.	gene_id "align_id:1096|Unigene886_YT"; transcript_id "align_id:1096|Unigene886_YT|Unigene886_YT.path1";
+
+NC_001139.9	gmap	transcript	1067238	1075472	.	-	.	gene_id "align_id:1098|Unigene895_YT"; transcript_id "align_id:1098|Unigene895_YT|Unigene895_YT.path1";
+NC_001139.9	gmap	exon	1067238	1068992	88	-	.	gene_id "align_id:1098|Unigene895_YT"; transcript_id "align_id:1098|Unigene895_YT|Unigene895_YT.path1";
+NC_001139.9	gmap	exon	1075466	1075472	100	-	.	gene_id "align_id:1098|Unigene895_YT"; transcript_id "align_id:1098|Unigene895_YT|Unigene895_YT.path1";
+
+NC_001139.9	gmap	transcript	796798	800483	.	-	.	gene_id "align_id:1224|Unigene1055_YT"; transcript_id "align_id:1224|Unigene1055_YT|Unigene1055_YT.path1";
+NC_001139.9	gmap	exon	796798	797945	99	-	.	gene_id "align_id:1224|Unigene1055_YT"; transcript_id "align_id:1224|Unigene1055_YT|Unigene1055_YT.path1";
+NC_001139.9	gmap	exon	800474	800483	100	-	.	gene_id "align_id:1224|Unigene1055_YT"; transcript_id "align_id:1224|Unigene1055_YT|Unigene1055_YT.path1";
+
+NC_001139.9	gmap	transcript	793257	794345	.	+	.	gene_id "align_id:1236|Unigene1057_YT"; transcript_id "align_id:1236|Unigene1057_YT|Unigene1057_YT.path1";
+NC_001139.9	gmap	exon	793257	794345	87	+	.	gene_id "align_id:1236|Unigene1057_YT"; transcript_id "align_id:1236|Unigene1057_YT|Unigene1057_YT.path1";
+
+NC_001139.9	gmap	transcript	778103	779291	.	+	.	gene_id "align_id:1242|Unigene1068_YT"; transcript_id "align_id:1242|Unigene1068_YT|Unigene1068_YT.path1";
+NC_001139.9	gmap	exon	778103	778980	95	+	.	gene_id "align_id:1242|Unigene1068_YT"; transcript_id "align_id:1242|Unigene1068_YT|Unigene1068_YT.path1";
+NC_001139.9	gmap	exon	779118	779291	93	+	.	gene_id "align_id:1242|Unigene1068_YT"; transcript_id "align_id:1242|Unigene1068_YT|Unigene1068_YT.path1";
+
+NC_001139.9	gmap	transcript	516943	521054	.	+	.	gene_id "align_id:1427|Unigene1227_YT"; transcript_id "align_id:1427|Unigene1227_YT|Unigene1227_YT.path1";
+NC_001139.9	gmap	exon	516943	518077	98	+	.	gene_id "align_id:1427|Unigene1227_YT"; transcript_id "align_id:1427|Unigene1227_YT|Unigene1227_YT.path1";
+NC_001139.9	gmap	exon	518457	521054	93	+	.	gene_id "align_id:1427|Unigene1227_YT"; transcript_id "align_id:1427|Unigene1227_YT|Unigene1227_YT.path1";
+
+NC_001139.9	gmap	transcript	735985	736050	.	+	.	gene_id "align_id:1482|Unigene1299_YT"; transcript_id "align_id:1482|Unigene1299_YT|Unigene1299_YT.path1";
+NC_001139.9	gmap	exon	735985	736050	90	+	.	gene_id "align_id:1482|Unigene1299_YT"; transcript_id "align_id:1482|Unigene1299_YT|Unigene1299_YT.path1";
+
+NC_001133.9	gmap	transcript	187361	189244	.	+	.	gene_id "align_id:1526|Unigene1300_YT"; transcript_id "align_id:1526|Unigene1300_YT|Unigene1300_YT.path1";
+NC_001133.9	gmap	exon	187361	187657	80	+	.	gene_id "align_id:1526|Unigene1300_YT"; transcript_id "align_id:1526|Unigene1300_YT|Unigene1300_YT.path1";
+NC_001133.9	gmap	exon	188725	189244	96	+	.	gene_id "align_id:1526|Unigene1300_YT"; transcript_id "align_id:1526|Unigene1300_YT|Unigene1300_YT.path1";
+
+NC_001139.9	gmap	transcript	278833	280578	.	-	.	gene_id "align_id:1549|Unigene1376_YT"; transcript_id "align_id:1549|Unigene1376_YT|Unigene1376_YT.path1";
+NC_001139.9	gmap	exon	278833	280069	99	-	.	gene_id "align_id:1549|Unigene1376_YT"; transcript_id "align_id:1549|Unigene1376_YT|Unigene1376_YT.path1";
+NC_001139.9	gmap	exon	280154	280578	98	-	.	gene_id "align_id:1549|Unigene1376_YT"; transcript_id "align_id:1549|Unigene1376_YT|Unigene1376_YT.path1";
+
+NC_001139.9	gmap	transcript	74686	76706	.	+	.	gene_id "align_id:1662|Unigene1491_YT"; transcript_id "align_id:1662|Unigene1491_YT|Unigene1491_YT.path1";
+NC_001139.9	gmap	exon	74686	75715	97	+	.	gene_id "align_id:1662|Unigene1491_YT"; transcript_id "align_id:1662|Unigene1491_YT|Unigene1491_YT.path1";
+NC_001139.9	gmap	exon	75944	76706	97	+	.	gene_id "align_id:1662|Unigene1491_YT"; transcript_id "align_id:1662|Unigene1491_YT|Unigene1491_YT.path1";
+
+NC_001141.2	gmap	transcript	22392	23394	.	+	.	gene_id "align_id:1742|Unigene1535_YT"; transcript_id "align_id:1742|Unigene1535_YT|Unigene1535_YT.path1";
+NC_001141.2	gmap	exon	22392	23394	97	+	.	gene_id "align_id:1742|Unigene1535_YT"; transcript_id "align_id:1742|Unigene1535_YT|Unigene1535_YT.path1";
+
+NC_001147.6	gmap	transcript	28913	31276	.	+	.	gene_id "align_id:1743|Unigene1535_YT"; transcript_id "align_id:1743|Unigene1535_YT|Unigene1535_YT.path2";
+NC_001147.6	gmap	exon	28913	29195	80	+	.	gene_id "align_id:1743|Unigene1535_YT"; transcript_id "align_id:1743|Unigene1535_YT|Unigene1535_YT.path2";
+NC_001147.6	gmap	exon	29304	30957	97	+	.	gene_id "align_id:1743|Unigene1535_YT"; transcript_id "align_id:1743|Unigene1535_YT|Unigene1535_YT.path2";
+NC_001147.6	gmap	exon	31075	31276	89	+	.	gene_id "align_id:1743|Unigene1535_YT"; transcript_id "align_id:1743|Unigene1535_YT|Unigene1535_YT.path2";
+
+NC_001147.6	gmap	transcript	219124	223062	.	+	.	gene_id "align_id:1826|Unigene1657_YT"; transcript_id "align_id:1826|Unigene1657_YT|Unigene1657_YT.path1";
+NC_001147.6	gmap	exon	219124	220453	99	+	.	gene_id "align_id:1826|Unigene1657_YT"; transcript_id "align_id:1826|Unigene1657_YT|Unigene1657_YT.path1";
+NC_001147.6	gmap	exon	220743	223062	99	+	.	gene_id "align_id:1826|Unigene1657_YT"; transcript_id "align_id:1826|Unigene1657_YT|Unigene1657_YT.path1";
+
+NC_001147.6	gmap	transcript	342837	345969	.	+	.	gene_id "align_id:1919|Unigene1735_YT"; transcript_id "align_id:1919|Unigene1735_YT|Unigene1735_YT.path1";
+NC_001147.6	gmap	exon	342837	344803	99	+	.	gene_id "align_id:1919|Unigene1735_YT"; transcript_id "align_id:1919|Unigene1735_YT|Unigene1735_YT.path1";
+NC_001147.6	gmap	exon	344877	344911	91	+	.	gene_id "align_id:1919|Unigene1735_YT"; transcript_id "align_id:1919|Unigene1735_YT|Unigene1735_YT.path1";
+NC_001147.6	gmap	exon	344949	345969	94	+	.	gene_id "align_id:1919|Unigene1735_YT"; transcript_id "align_id:1919|Unigene1735_YT|Unigene1735_YT.path1";
+
+NC_001147.6	gmap	transcript	385209	385388	.	+	.	gene_id "align_id:1958|Unigene1763_YT"; transcript_id "align_id:1958|Unigene1763_YT|Unigene1763_YT.path1";
+NC_001147.6	gmap	exon	385209	385388	100	+	.	gene_id "align_id:1958|Unigene1763_YT"; transcript_id "align_id:1958|Unigene1763_YT|Unigene1763_YT.path1";
+
+NC_001147.6	gmap	transcript	497053	502494	.	-	.	gene_id "align_id:2019|Unigene1846_YT"; transcript_id "align_id:2019|Unigene1846_YT|Unigene1846_YT.path1";
+NC_001147.6	gmap	exon	497053	497109	100	-	.	gene_id "align_id:2019|Unigene1846_YT"; transcript_id "align_id:2019|Unigene1846_YT|Unigene1846_YT.path1";
+NC_001147.6	gmap	exon	497389	502494	99	-	.	gene_id "align_id:2019|Unigene1846_YT"; transcript_id "align_id:2019|Unigene1846_YT|Unigene1846_YT.path1";
+
+NC_001147.6	gmap	transcript	664564	665283	.	+	.	gene_id "align_id:2095|Unigene1931_YT"; transcript_id "align_id:2095|Unigene1931_YT|Unigene1931_YT.path1";
+NC_001147.6	gmap	exon	664564	664812	99	+	.	gene_id "align_id:2095|Unigene1931_YT"; transcript_id "align_id:2095|Unigene1931_YT|Unigene1931_YT.path1";
+NC_001147.6	gmap	exon	665151	665283	100	+	.	gene_id "align_id:2095|Unigene1931_YT"; transcript_id "align_id:2095|Unigene1931_YT|Unigene1931_YT.path1";
+
+NC_001147.6	gmap	transcript	664794	665577	.	-	.	gene_id "align_id:2097|Unigene1932_YT"; transcript_id "align_id:2097|Unigene1932_YT|Unigene1932_YT.path1";
+NC_001147.6	gmap	exon	664794	664814	90	-	.	gene_id "align_id:2097|Unigene1932_YT"; transcript_id "align_id:2097|Unigene1932_YT|Unigene1932_YT.path1";
+NC_001147.6	gmap	exon	665151	665577	99	-	.	gene_id "align_id:2097|Unigene1932_YT"; transcript_id "align_id:2097|Unigene1932_YT|Unigene1932_YT.path1";
+
+NC_001147.6	gmap	transcript	807454	808008	.	+	.	gene_id "align_id:2186|Unigene2021_YT"; transcript_id "align_id:2186|Unigene2021_YT|Unigene2021_YT.path1";
+NC_001147.6	gmap	exon	807454	807828	98	+	.	gene_id "align_id:2186|Unigene2021_YT"; transcript_id "align_id:2186|Unigene2021_YT|Unigene2021_YT.path1";
+NC_001147.6	gmap	exon	807995	808008	92	+	.	gene_id "align_id:2186|Unigene2021_YT"; transcript_id "align_id:2186|Unigene2021_YT|Unigene2021_YT.path1";
+
+NC_001146.8	gmap	transcript	96609	97418	.	-	.	gene_id "align_id:2288|Unigene465_YT"; transcript_id "align_id:2288|Unigene465_YT|Unigene465_YT.path1";
+NC_001146.8	gmap	exon	96609	96940	93	-	.	gene_id "align_id:2288|Unigene465_YT"; transcript_id "align_id:2288|Unigene465_YT|Unigene465_YT.path1";
+NC_001146.8	gmap	exon	97414	97418	100	-	.	gene_id "align_id:2288|Unigene465_YT"; transcript_id "align_id:2288|Unigene465_YT|Unigene465_YT.path1";
+
+NC_001147.6	gmap	transcript	969224	970285	.	+	.	gene_id "align_id:2303|Unigene2113_YT"; transcript_id "align_id:2303|Unigene2113_YT|Unigene2113_YT.path1";
+NC_001147.6	gmap	exon	969224	970285	94	+	.	gene_id "align_id:2303|Unigene2113_YT"; transcript_id "align_id:2303|Unigene2113_YT|Unigene2113_YT.path1";
+
+NC_001147.6	gmap	transcript	1034143	1044503	.	-	.	gene_id "align_id:2316|Unigene2152_YT"; transcript_id "align_id:2316|Unigene2152_YT|Unigene2152_YT.path1";
+NC_001147.6	gmap	exon	1034143	1034150	100	-	.	gene_id "align_id:2316|Unigene2152_YT"; transcript_id "align_id:2316|Unigene2152_YT|Unigene2152_YT.path1";
+NC_001147.6	gmap	exon	1044311	1044503	99	-	.	gene_id "align_id:2316|Unigene2152_YT"; transcript_id "align_id:2316|Unigene2152_YT|Unigene2152_YT.path1";
+
+NC_001147.6	gmap	transcript	1058441	1061342	.	+	.	gene_id "align_id:2320|Unigene2158_YT"; transcript_id "align_id:2320|Unigene2158_YT|Unigene2158_YT.path1";
+NC_001147.6	gmap	exon	1058441	1059150	97	+	.	gene_id "align_id:2320|Unigene2158_YT"; transcript_id "align_id:2320|Unigene2158_YT|Unigene2158_YT.path1";
+NC_001147.6	gmap	exon	1059213	1059270	93	+	.	gene_id "align_id:2320|Unigene2158_YT"; transcript_id "align_id:2320|Unigene2158_YT|Unigene2158_YT.path1";
+NC_001147.6	gmap	exon	1061238	1061342	91	+	.	gene_id "align_id:2320|Unigene2158_YT"; transcript_id "align_id:2320|Unigene2158_YT|Unigene2158_YT.path1";
+
+NC_001147.6	gmap	transcript	1058513	1064410	.	-	.	gene_id "align_id:2340|Unigene2159_YT"; transcript_id "align_id:2340|Unigene2159_YT|Unigene2159_YT.path1";
+NC_001147.6	gmap	exon	1058513	1059150	96	-	.	gene_id "align_id:2340|Unigene2159_YT"; transcript_id "align_id:2340|Unigene2159_YT|Unigene2159_YT.path1";
+NC_001147.6	gmap	exon	1059213	1059270	93	-	.	gene_id "align_id:2340|Unigene2159_YT"; transcript_id "align_id:2340|Unigene2159_YT|Unigene2159_YT.path1";
+NC_001147.6	gmap	exon	1061238	1064410	97	-	.	gene_id "align_id:2340|Unigene2159_YT"; transcript_id "align_id:2340|Unigene2159_YT|Unigene2159_YT.path1";
+
+NC_001148.4	gmap	transcript	785857	787599	.	+	.	gene_id "align_id:2411|Unigene2237_YT"; transcript_id "align_id:2411|Unigene2237_YT|Unigene2237_YT.path1";
+NC_001148.4	gmap	exon	785857	787599	89	+	.	gene_id "align_id:2411|Unigene2237_YT"; transcript_id "align_id:2411|Unigene2237_YT|Unigene2237_YT.path1";
+
+NC_001147.6	gmap	transcript	969796	970265	.	-	.	gene_id "align_id:2554|Unigene2114_YT"; transcript_id "align_id:2554|Unigene2114_YT|Unigene2114_YT.path1";
+NC_001147.6	gmap	exon	969796	970265	95	-	.	gene_id "align_id:2554|Unigene2114_YT"; transcript_id "align_id:2554|Unigene2114_YT|Unigene2114_YT.path1";
+
+NC_001148.4	gmap	transcript	436856	443333	.	-	.	gene_id "align_id:2609|Unigene2443_YT"; transcript_id "align_id:2609|Unigene2443_YT|Unigene2443_YT.path1";
+NC_001148.4	gmap	exon	436856	436904	73	-	.	gene_id "align_id:2609|Unigene2443_YT"; transcript_id "align_id:2609|Unigene2443_YT|Unigene2443_YT.path1";
+NC_001148.4	gmap	exon	443120	443333	97	-	.	gene_id "align_id:2609|Unigene2443_YT"; transcript_id "align_id:2609|Unigene2443_YT|Unigene2443_YT.path1";
+
+NC_001148.4	gmap	transcript	231068	249903	.	+	.	gene_id "align_id:2725|Unigene2561_YT"; transcript_id "align_id:2725|Unigene2561_YT|Unigene2561_YT.path1";
+NC_001148.4	gmap	exon	231068	232555	99	+	.	gene_id "align_id:2725|Unigene2561_YT"; transcript_id "align_id:2725|Unigene2561_YT|Unigene2561_YT.path1";
+NC_001148.4	gmap	exon	249896	249903	100	+	.	gene_id "align_id:2725|Unigene2561_YT"; transcript_id "align_id:2725|Unigene2561_YT|Unigene2561_YT.path1";
+
+NC_001148.4	gmap	transcript	53200	56285	.	-	.	gene_id "align_id:2841|Unigene2671_YT"; transcript_id "align_id:2841|Unigene2671_YT|Unigene2671_YT.path1";
+NC_001148.4	gmap	exon	53200	55872	99	-	.	gene_id "align_id:2841|Unigene2671_YT"; transcript_id "align_id:2841|Unigene2671_YT|Unigene2671_YT.path1";
+NC_001148.4	gmap	exon	56119	56285	98	-	.	gene_id "align_id:2841|Unigene2671_YT"; transcript_id "align_id:2841|Unigene2671_YT|Unigene2671_YT.path1";
+
+NC_001145.3	gmap	transcript	872993	882872	.	+	.	gene_id "align_id:2867|Unigene2704_YT"; transcript_id "align_id:2867|Unigene2704_YT|Unigene2704_YT.path1";
+NC_001145.3	gmap	exon	872993	873891	99	+	.	gene_id "align_id:2867|Unigene2704_YT"; transcript_id "align_id:2867|Unigene2704_YT|Unigene2704_YT.path1";
+NC_001145.3	gmap	exon	882864	882872	100	+	.	gene_id "align_id:2867|Unigene2704_YT"; transcript_id "align_id:2867|Unigene2704_YT|Unigene2704_YT.path1";
+
+NC_001145.3	gmap	transcript	826937	828821	.	-	.	gene_id "align_id:2901|Unigene2734_YT"; transcript_id "align_id:2901|Unigene2734_YT|Unigene2734_YT.path1";
+NC_001145.3	gmap	exon	826937	828334	97	-	.	gene_id "align_id:2901|Unigene2734_YT"; transcript_id "align_id:2901|Unigene2734_YT|Unigene2734_YT.path1";
+NC_001145.3	gmap	exon	828346	828821	99	-	.	gene_id "align_id:2901|Unigene2734_YT"; transcript_id "align_id:2901|Unigene2734_YT|Unigene2734_YT.path1";
+
+NC_001145.3	gmap	transcript	703412	706944	.	-	.	gene_id "align_id:2970|Unigene2802_YT"; transcript_id "align_id:2970|Unigene2802_YT|Unigene2802_YT.path1";
+NC_001145.3	gmap	exon	703412	703559	94	-	.	gene_id "align_id:2970|Unigene2802_YT"; transcript_id "align_id:2970|Unigene2802_YT|Unigene2802_YT.path1";
+NC_001145.3	gmap	exon	703573	706944	98	-	.	gene_id "align_id:2970|Unigene2802_YT"; transcript_id "align_id:2970|Unigene2802_YT|Unigene2802_YT.path1";
+
+NC_001145.3	gmap	transcript	609465	609746	.	+	.	gene_id "align_id:3025|Unigene2861_YT"; transcript_id "align_id:3025|Unigene2861_YT|Unigene2861_YT.path1";
+NC_001145.3	gmap	exon	609465	609625	99	+	.	gene_id "align_id:3025|Unigene2861_YT"; transcript_id "align_id:3025|Unigene2861_YT|Unigene2861_YT.path1";
+NC_001145.3	gmap	exon	609704	609746	100	+	.	gene_id "align_id:3025|Unigene2861_YT"; transcript_id "align_id:3025|Unigene2861_YT|Unigene2861_YT.path1";
+
+NC_001145.3	gmap	transcript	608911	609842	.	+	.	gene_id "align_id:3027|Unigene2859_YT"; transcript_id "align_id:3027|Unigene2859_YT|Unigene2859_YT.path1";
+NC_001145.3	gmap	exon	608911	608989	94	+	.	gene_id "align_id:3027|Unigene2859_YT"; transcript_id "align_id:3027|Unigene2859_YT|Unigene2859_YT.path1";
+NC_001145.3	gmap	exon	609739	609842	96	+	.	gene_id "align_id:3027|Unigene2859_YT"; transcript_id "align_id:3027|Unigene2859_YT|Unigene2859_YT.path1";
+
+NC_001145.3	gmap	transcript	609304	609792	.	+	.	gene_id "align_id:3028|Unigene2860_YT"; transcript_id "align_id:3028|Unigene2860_YT|Unigene2860_YT.path1";
+NC_001145.3	gmap	exon	609304	609436	93	+	.	gene_id "align_id:3028|Unigene2860_YT"; transcript_id "align_id:3028|Unigene2860_YT|Unigene2860_YT.path1";
+NC_001145.3	gmap	exon	609704	609792	62	+	.	gene_id "align_id:3028|Unigene2860_YT"; transcript_id "align_id:3028|Unigene2860_YT|Unigene2860_YT.path1";
+
+NC_001145.3	gmap	transcript	482012	482191	.	+	.	gene_id "align_id:3125|Unigene2938_YT"; transcript_id "align_id:3125|Unigene2938_YT|Unigene2938_YT.path1";
+NC_001145.3	gmap	exon	482012	482191	98	+	.	gene_id "align_id:3125|Unigene2938_YT"; transcript_id "align_id:3125|Unigene2938_YT|Unigene2938_YT.path1";
+
+NC_001145.3	gmap	transcript	168354	202585	.	+	.	gene_id "align_id:3278|Unigene3109_YT"; transcript_id "align_id:3278|Unigene3109_YT|Unigene3109_YT.path1";
+NC_001145.3	gmap	exon	168354	168408	89	+	.	gene_id "align_id:3278|Unigene3109_YT"; transcript_id "align_id:3278|Unigene3109_YT|Unigene3109_YT.path1";
+NC_001145.3	gmap	exon	190009	190029	90	+	.	gene_id "align_id:3278|Unigene3109_YT"; transcript_id "align_id:3278|Unigene3109_YT|Unigene3109_YT.path1";
+NC_001145.3	gmap	exon	202203	202585	98	+	.	gene_id "align_id:3278|Unigene3109_YT"; transcript_id "align_id:3278|Unigene3109_YT|Unigene3109_YT.path1";
+
+NC_001134.8	gmap	transcript	61129	69764	.	-	.	gene_id "align_id:3361|Unigene3197_YT"; transcript_id "align_id:3361|Unigene3197_YT|Unigene3197_YT.path1";
+NC_001134.8	gmap	exon	61129	62699	99	-	.	gene_id "align_id:3361|Unigene3197_YT"; transcript_id "align_id:3361|Unigene3197_YT|Unigene3197_YT.path1";
+NC_001134.8	gmap	exon	69755	69764	90	-	.	gene_id "align_id:3361|Unigene3197_YT"; transcript_id "align_id:3361|Unigene3197_YT|Unigene3197_YT.path1";
+
+NC_001134.8	gmap	transcript	79323	95882	.	-	.	gene_id "align_id:3379|Unigene3212_YT"; transcript_id "align_id:3379|Unigene3212_YT|Unigene3212_YT.path1";
+NC_001134.8	gmap	exon	79323	79333	100	-	.	gene_id "align_id:3379|Unigene3212_YT"; transcript_id "align_id:3379|Unigene3212_YT|Unigene3212_YT.path1";
+NC_001134.8	gmap	exon	93534	95882	99	-	.	gene_id "align_id:3379|Unigene3212_YT"; transcript_id "align_id:3379|Unigene3212_YT|Unigene3212_YT.path1";
+
+NC_001134.8	gmap	transcript	258992	266233	.	-	.	gene_id "align_id:3466|Unigene3299_YT"; transcript_id "align_id:3466|Unigene3299_YT|Unigene3299_YT.path1";
+NC_001134.8	gmap	exon	258992	259572	99	-	.	gene_id "align_id:3466|Unigene3299_YT"; transcript_id "align_id:3466|Unigene3299_YT|Unigene3299_YT.path1";
+NC_001134.8	gmap	exon	265496	266233	99	-	.	gene_id "align_id:3466|Unigene3299_YT"; transcript_id "align_id:3466|Unigene3299_YT|Unigene3299_YT.path1";
+
+NC_001134.8	gmap	transcript	350884	351933	.	+	.	gene_id "align_id:3520|Unigene3356_YT"; transcript_id "align_id:3520|Unigene3356_YT|Unigene3356_YT.path1";
+NC_001134.8	gmap	exon	350884	351458	98	+	.	gene_id "align_id:3520|Unigene3356_YT"; transcript_id "align_id:3520|Unigene3356_YT|Unigene3356_YT.path1";
+NC_001134.8	gmap	exon	351476	351933	99	+	.	gene_id "align_id:3520|Unigene3356_YT"; transcript_id "align_id:3520|Unigene3356_YT|Unigene3356_YT.path1";
+
+NC_001134.8	gmap	transcript	417215	417483	.	-	.	gene_id "align_id:3564|Unigene3399_YT"; transcript_id "align_id:3564|Unigene3399_YT|Unigene3399_YT.path1";
+NC_001134.8	gmap	exon	417215	417483	89	-	.	gene_id "align_id:3564|Unigene3399_YT"; transcript_id "align_id:3564|Unigene3399_YT|Unigene3399_YT.path1";
+
+NC_001142.9	gmap	transcript	14	6281	.	-	.	gene_id "align_id:3714|CL390Contig1_YT"; transcript_id "align_id:3714|CL390Contig1_YT|CL390Contig1_YT.path1";
+NC_001142.9	gmap	exon	14	1744	92	-	.	gene_id "align_id:3714|CL390Contig1_YT"; transcript_id "align_id:3714|CL390Contig1_YT|CL390Contig1_YT.path1";
+NC_001142.9	gmap	exon	1778	2032	94	-	.	gene_id "align_id:3714|CL390Contig1_YT"; transcript_id "align_id:3714|CL390Contig1_YT|CL390Contig1_YT.path1";
+NC_001142.9	gmap	exon	2102	2176	97	-	.	gene_id "align_id:3714|CL390Contig1_YT"; transcript_id "align_id:3714|CL390Contig1_YT|CL390Contig1_YT.path1";
+NC_001142.9	gmap	exon	2358	5514	99	-	.	gene_id "align_id:3714|CL390Contig1_YT"; transcript_id "align_id:3714|CL390Contig1_YT|CL390Contig1_YT.path1";
+NC_001142.9	gmap	exon	5532	6281	100	-	.	gene_id "align_id:3714|CL390Contig1_YT"; transcript_id "align_id:3714|CL390Contig1_YT|CL390Contig1_YT.path1";
+
+NC_001139.9	gmap	transcript	1084342	1090730	.	+	.	gene_id "align_id:3715|CL390Contig1_YT"; transcript_id "align_id:3715|CL390Contig1_YT|CL390Contig1_YT.path2";
+NC_001139.9	gmap	exon	1084342	1088972	97	+	.	gene_id "align_id:3715|CL390Contig1_YT"; transcript_id "align_id:3715|CL390Contig1_YT|CL390Contig1_YT.path2";
+NC_001139.9	gmap	exon	1089022	1090730	91	+	.	gene_id "align_id:3715|CL390Contig1_YT"; transcript_id "align_id:3715|CL390Contig1_YT|CL390Contig1_YT.path2";
+
+NC_001134.8	gmap	transcript	764852	768041	.	-	.	gene_id "align_id:3777|Unigene3608_YT"; transcript_id "align_id:3777|Unigene3608_YT|Unigene3608_YT.path1";
+NC_001134.8	gmap	exon	764852	767638	99	-	.	gene_id "align_id:3777|Unigene3608_YT"; transcript_id "align_id:3777|Unigene3608_YT|Unigene3608_YT.path1";
+NC_001134.8	gmap	exon	767683	768041	97	-	.	gene_id "align_id:3777|Unigene3608_YT"; transcript_id "align_id:3777|Unigene3608_YT|Unigene3608_YT.path1";
+
+NC_001134.8	gmap	transcript	792541	793272	.	+	.	gene_id "align_id:3810|Unigene3626_YT"; transcript_id "align_id:3810|Unigene3626_YT|Unigene3626_YT.path1";
+NC_001134.8	gmap	exon	792541	793272	99	+	.	gene_id "align_id:3810|Unigene3626_YT"; transcript_id "align_id:3810|Unigene3626_YT|Unigene3626_YT.path1";
+
+NC_001134.8	gmap	transcript	800346	801727	.	+	.	gene_id "align_id:3823|Unigene3630_YT"; transcript_id "align_id:3823|Unigene3630_YT|Unigene3630_YT.path1";
+NC_001134.8	gmap	exon	800346	801727	98	+	.	gene_id "align_id:3823|Unigene3630_YT"; transcript_id "align_id:3823|Unigene3630_YT|Unigene3630_YT.path1";
+
+NC_001134.8	gmap	transcript	226889	226951	.	+	.	gene_id "align_id:3954|Unigene3657_YT"; transcript_id "align_id:3954|Unigene3657_YT|Unigene3657_YT.path1";
+NC_001134.8	gmap	exon	226889	226951	100	+	.	gene_id "align_id:3954|Unigene3657_YT"; transcript_id "align_id:3954|Unigene3657_YT|Unigene3657_YT.path1";
+
+NC_001142.9	gmap	transcript	354797	355287	.	+	.	gene_id "align_id:3993|Unigene3825_YT"; transcript_id "align_id:3993|Unigene3825_YT|Unigene3825_YT.path1";
+NC_001142.9	gmap	exon	354797	354842	100	+	.	gene_id "align_id:3993|Unigene3825_YT"; transcript_id "align_id:3993|Unigene3825_YT|Unigene3825_YT.path1";
+NC_001142.9	gmap	exon	355181	355287	98	+	.	gene_id "align_id:3993|Unigene3825_YT"; transcript_id "align_id:3993|Unigene3825_YT|Unigene3825_YT.path1";
+
+NC_001142.9	gmap	transcript	354734	355287	.	-	.	gene_id "align_id:4007|Unigene3824_YT"; transcript_id "align_id:4007|Unigene3824_YT|Unigene3824_YT.path1";
+NC_001142.9	gmap	exon	354734	354842	99	-	.	gene_id "align_id:4007|Unigene3824_YT"; transcript_id "align_id:4007|Unigene3824_YT|Unigene3824_YT.path1";
+NC_001142.9	gmap	exon	355181	355287	99	-	.	gene_id "align_id:4007|Unigene3824_YT"; transcript_id "align_id:4007|Unigene3824_YT|Unigene3824_YT.path1";
+
+NC_001142.9	gmap	transcript	472094	486196	.	-	.	gene_id "align_id:4075|Unigene3907_YT"; transcript_id "align_id:4075|Unigene3907_YT|Unigene3907_YT.path1";
+NC_001142.9	gmap	exon	472094	472461	99	-	.	gene_id "align_id:4075|Unigene3907_YT"; transcript_id "align_id:4075|Unigene3907_YT|Unigene3907_YT.path1";
+NC_001142.9	gmap	exon	483978	486196	99	-	.	gene_id "align_id:4075|Unigene3907_YT"; transcript_id "align_id:4075|Unigene3907_YT|Unigene3907_YT.path1";
+
+NC_001142.9	gmap	transcript	623167	640679	.	+	.	gene_id "align_id:4157|Unigene3990_YT"; transcript_id "align_id:4157|Unigene3990_YT|Unigene3990_YT.path1";
+NC_001142.9	gmap	exon	623167	624638	99	+	.	gene_id "align_id:4157|Unigene3990_YT"; transcript_id "align_id:4157|Unigene3990_YT|Unigene3990_YT.path1";
+NC_001142.9	gmap	exon	640669	640679	90	+	.	gene_id "align_id:4157|Unigene3990_YT"; transcript_id "align_id:4157|Unigene3990_YT|Unigene3990_YT.path1";
+
+NC_001142.9	gmap	transcript	712325	713364	.	-	.	gene_id "align_id:4210|Unigene4045_YT"; transcript_id "align_id:4210|Unigene4045_YT|Unigene4045_YT.path1";
+NC_001142.9	gmap	exon	712325	712639	98	-	.	gene_id "align_id:4210|Unigene4045_YT"; transcript_id "align_id:4210|Unigene4045_YT|Unigene4045_YT.path1";
+NC_001142.9	gmap	exon	713168	713364	99	-	.	gene_id "align_id:4210|Unigene4045_YT"; transcript_id "align_id:4210|Unigene4045_YT|Unigene4045_YT.path1";
+
+NC_001146.8	gmap	transcript	140741	144293	.	+	.	gene_id "align_id:4250|Unigene4083_YT"; transcript_id "align_id:4250|Unigene4083_YT|Unigene4083_YT.path1";
+NC_001146.8	gmap	exon	140741	144082	99	+	.	gene_id "align_id:4250|Unigene4083_YT"; transcript_id "align_id:4250|Unigene4083_YT|Unigene4083_YT.path1";
+NC_001146.8	gmap	exon	144143	144293	98	+	.	gene_id "align_id:4250|Unigene4083_YT"; transcript_id "align_id:4250|Unigene4083_YT|Unigene4083_YT.path1";
+
+NC_001146.8	gmap	transcript	215126	234101	.	-	.	gene_id "align_id:4285|Unigene4120_YT"; transcript_id "align_id:4285|Unigene4120_YT|Unigene4120_YT.path1";
+NC_001146.8	gmap	exon	215126	215136	100	-	.	gene_id "align_id:4285|Unigene4120_YT"; transcript_id "align_id:4285|Unigene4120_YT|Unigene4120_YT.path1";
+NC_001146.8	gmap	exon	230812	234101	99	-	.	gene_id "align_id:4285|Unigene4120_YT"; transcript_id "align_id:4285|Unigene4120_YT|Unigene4120_YT.path1";
+
+NC_001146.8	gmap	transcript	519131	525248	.	+	.	gene_id "align_id:4467|Unigene4300_YT"; transcript_id "align_id:4467|Unigene4300_YT|Unigene4300_YT.path1";
+NC_001146.8	gmap	exon	519131	519160	100	+	.	gene_id "align_id:4467|Unigene4300_YT"; transcript_id "align_id:4467|Unigene4300_YT|Unigene4300_YT.path1";
+NC_001146.8	gmap	exon	525067	525248	97	+	.	gene_id "align_id:4467|Unigene4300_YT"; transcript_id "align_id:4467|Unigene4300_YT|Unigene4300_YT.path1";
+
+NC_001146.8	gmap	transcript	670346	684627	.	+	.	gene_id "align_id:4569|Unigene4393_YT"; transcript_id "align_id:4569|Unigene4393_YT|Unigene4393_YT.path1";
+NC_001146.8	gmap	exon	670346	672210	99	+	.	gene_id "align_id:4569|Unigene4393_YT"; transcript_id "align_id:4569|Unigene4393_YT|Unigene4393_YT.path1";
+NC_001146.8	gmap	exon	684617	684627	90	+	.	gene_id "align_id:4569|Unigene4393_YT"; transcript_id "align_id:4569|Unigene4393_YT|Unigene4393_YT.path1";
+
+NC_001146.8	gmap	transcript	704256	705934	.	+	.	gene_id "align_id:4616|Unigene4416_YT"; transcript_id "align_id:4616|Unigene4416_YT|Unigene4416_YT.path1";
+NC_001146.8	gmap	exon	704256	704272	94	+	.	gene_id "align_id:4616|Unigene4416_YT"; transcript_id "align_id:4616|Unigene4416_YT|Unigene4416_YT.path1";
+NC_001146.8	gmap	exon	704334	704459	93	+	.	gene_id "align_id:4616|Unigene4416_YT"; transcript_id "align_id:4616|Unigene4416_YT|Unigene4416_YT.path1";
+NC_001146.8	gmap	exon	704586	705934	98	+	.	gene_id "align_id:4616|Unigene4416_YT"; transcript_id "align_id:4616|Unigene4416_YT|Unigene4416_YT.path1";
+
+NC_001143.9	gmap	transcript	647876	649868	.	+	.	gene_id "align_id:4646|Unigene4477_YT"; transcript_id "align_id:4646|Unigene4477_YT|Unigene4477_YT.path1";
+NC_001143.9	gmap	exon	647876	647943	97	+	.	gene_id "align_id:4646|Unigene4477_YT"; transcript_id "align_id:4646|Unigene4477_YT|Unigene4477_YT.path1";
+NC_001143.9	gmap	exon	648132	649868	99	+	.	gene_id "align_id:4646|Unigene4477_YT"; transcript_id "align_id:4646|Unigene4477_YT|Unigene4477_YT.path1";
+
+NC_001143.9	gmap	transcript	517283	517870	.	-	.	gene_id "align_id:4713|Unigene4546_YT"; transcript_id "align_id:4713|Unigene4546_YT|Unigene4546_YT.path1";
+NC_001143.9	gmap	exon	517283	517450	100	-	.	gene_id "align_id:4713|Unigene4546_YT"; transcript_id "align_id:4713|Unigene4546_YT|Unigene4546_YT.path1";
+NC_001143.9	gmap	exon	517788	517870	98	-	.	gene_id "align_id:4713|Unigene4546_YT"; transcript_id "align_id:4713|Unigene4546_YT|Unigene4546_YT.path1";
+
+NC_001143.9	gmap	transcript	144501	144892	.	+	.	gene_id "align_id:4935|Unigene4769_YT"; transcript_id "align_id:4935|Unigene4769_YT|Unigene4769_YT.path1";
+NC_001143.9	gmap	exon	144501	144691	100	+	.	gene_id "align_id:4935|Unigene4769_YT"; transcript_id "align_id:4935|Unigene4769_YT|Unigene4769_YT.path1";
+NC_001143.9	gmap	exon	144854	144892	97	+	.	gene_id "align_id:4935|Unigene4769_YT"; transcript_id "align_id:4935|Unigene4769_YT|Unigene4769_YT.path1";
+
+NC_001143.9	gmap	transcript	314101	315576	.	+	.	gene_id "align_id:4959|Unigene4657_YT"; transcript_id "align_id:4959|Unigene4657_YT|Unigene4657_YT.path2";
+NC_001143.9	gmap	exon	314101	314193	94	+	.	gene_id "align_id:4959|Unigene4657_YT"; transcript_id "align_id:4959|Unigene4657_YT|Unigene4657_YT.path2";
+NC_001143.9	gmap	exon	314531	315576	98	+	.	gene_id "align_id:4959|Unigene4657_YT"; transcript_id "align_id:4959|Unigene4657_YT|Unigene4657_YT.path2";
+
+NC_001143.9	gmap	transcript	83755	97888	.	-	.	gene_id "align_id:4974|Unigene4799_YT"; transcript_id "align_id:4974|Unigene4799_YT|Unigene4799_YT.path1";
+NC_001143.9	gmap	exon	83755	84104	96	-	.	gene_id "align_id:4974|Unigene4799_YT"; transcript_id "align_id:4974|Unigene4799_YT|Unigene4799_YT.path1";
+NC_001143.9	gmap	exon	97869	97888	45	-	.	gene_id "align_id:4974|Unigene4799_YT"; transcript_id "align_id:4974|Unigene4799_YT|Unigene4799_YT.path1";
+
+NC_001137.3	gmap	transcript	135509	136395	.	-	.	gene_id "align_id:5153|Unigene4927_YT"; transcript_id "align_id:5153|Unigene4927_YT|Unigene4927_YT.path1";
+NC_001137.3	gmap	exon	135509	135603	97	-	.	gene_id "align_id:5153|Unigene4927_YT"; transcript_id "align_id:5153|Unigene4927_YT|Unigene4927_YT.path1";
+NC_001137.3	gmap	exon	135941	136395	99	-	.	gene_id "align_id:5153|Unigene4927_YT"; transcript_id "align_id:5153|Unigene4927_YT|Unigene4927_YT.path1";
+
+NC_001133.9	gmap	transcript	182688	182959	.	-	.	gene_id "align_id:5154|Unigene4927_YT"; transcript_id "align_id:5154|Unigene4927_YT|Unigene4927_YT.path2";
+NC_001133.9	gmap	exon	182688	182959	100	-	.	gene_id "align_id:5154|Unigene4927_YT"; transcript_id "align_id:5154|Unigene4927_YT|Unigene4927_YT.path2";
+
+NC_001134.8	gmap	transcript	801639	804987	.	-	.	gene_id "align_id:5200|Unigene3631_YT"; transcript_id "align_id:5200|Unigene3631_YT|Unigene3631_YT.path1";
+NC_001134.8	gmap	exon	801639	804987	98	-	.	gene_id "align_id:5200|Unigene3631_YT"; transcript_id "align_id:5200|Unigene3631_YT|Unigene3631_YT.path1";
+
+NC_001137.3	gmap	transcript	353726	354819	.	+	.	gene_id "align_id:5251|Unigene5080_YT"; transcript_id "align_id:5251|Unigene5080_YT|Unigene5080_YT.path1";
+NC_001137.3	gmap	exon	353726	354360	97	+	.	gene_id "align_id:5251|Unigene5080_YT"; transcript_id "align_id:5251|Unigene5080_YT|Unigene5080_YT.path1";
+NC_001137.3	gmap	exon	354732	354819	96	+	.	gene_id "align_id:5251|Unigene5080_YT"; transcript_id "align_id:5251|Unigene5080_YT|Unigene5080_YT.path1";
+
+NC_001137.3	gmap	transcript	431458	434167	.	+	.	gene_id "align_id:5298|Unigene5122_YT"; transcript_id "align_id:5298|Unigene5122_YT|Unigene5122_YT.path1";
+NC_001137.3	gmap	exon	431458	431488	100	+	.	gene_id "align_id:5298|Unigene5122_YT"; transcript_id "align_id:5298|Unigene5122_YT|Unigene5122_YT.path1";
+NC_001137.3	gmap	exon	431827	434167	99	+	.	gene_id "align_id:5298|Unigene5122_YT"; transcript_id "align_id:5298|Unigene5122_YT|Unigene5122_YT.path1";
+
+NC_001137.3	gmap	transcript	435362	438044	.	-	.	gene_id "align_id:5304|Unigene5125_YT"; transcript_id "align_id:5304|Unigene5125_YT|Unigene5125_YT.path1";
+NC_001137.3	gmap	exon	435362	435371	100	-	.	gene_id "align_id:5304|Unigene5125_YT"; transcript_id "align_id:5304|Unigene5125_YT|Unigene5125_YT.path1";
+NC_001137.3	gmap	exon	436374	438044	98	-	.	gene_id "align_id:5304|Unigene5125_YT"; transcript_id "align_id:5304|Unigene5125_YT|Unigene5125_YT.path1";
+
+NC_001137.3	gmap	transcript	487587	488579	.	-	.	gene_id "align_id:5318|Unigene5150_YT"; transcript_id "align_id:5318|Unigene5150_YT|Unigene5150_YT.path1";
+NC_001137.3	gmap	exon	487587	487834	98	-	.	gene_id "align_id:5318|Unigene5150_YT"; transcript_id "align_id:5318|Unigene5150_YT|Unigene5150_YT.path1";
+NC_001137.3	gmap	exon	488171	488579	99	-	.	gene_id "align_id:5318|Unigene5150_YT"; transcript_id "align_id:5318|Unigene5150_YT|Unigene5150_YT.path1";
+
+NC_001144.5	gmap	transcript	592796	599695	.	+	.	gene_id "align_id:5417|Unigene5251_YT"; transcript_id "align_id:5417|Unigene5251_YT|Unigene5251_YT.path1";
+NC_001144.5	gmap	exon	592796	593145	98	+	.	gene_id "align_id:5417|Unigene5251_YT"; transcript_id "align_id:5417|Unigene5251_YT|Unigene5251_YT.path1";
+NC_001144.5	gmap	exon	599069	599695	97	+	.	gene_id "align_id:5417|Unigene5251_YT"; transcript_id "align_id:5417|Unigene5251_YT|Unigene5251_YT.path1";
+
+NC_001146.8	gmap	transcript	561821	561978	.	+	.	gene_id "align_id:5421|Unigene5155_YT"; transcript_id "align_id:5421|Unigene5155_YT|Unigene5155_YT.path1";
+NC_001146.8	gmap	exon	561821	561978	100	+	.	gene_id "align_id:5421|Unigene5155_YT"; transcript_id "align_id:5421|Unigene5155_YT|Unigene5155_YT.path1";
+
+NC_001137.3	gmap	transcript	498675	498755	.	+	.	gene_id "align_id:5422|Unigene5155_YT"; transcript_id "align_id:5422|Unigene5155_YT|Unigene5155_YT.path2";
+NC_001137.3	gmap	exon	498675	498755	100	+	.	gene_id "align_id:5422|Unigene5155_YT"; transcript_id "align_id:5422|Unigene5155_YT|Unigene5155_YT.path2";
+
+NC_001144.5	gmap	transcript	645678	656913	.	+	.	gene_id "align_id:5457|Unigene5277_YT"; transcript_id "align_id:5457|Unigene5277_YT|Unigene5277_YT.path1";
+NC_001144.5	gmap	exon	645678	650822	99	+	.	gene_id "align_id:5457|Unigene5277_YT"; transcript_id "align_id:5457|Unigene5277_YT|Unigene5277_YT.path1";
+NC_001144.5	gmap	exon	656745	656913	99	+	.	gene_id "align_id:5457|Unigene5277_YT"; transcript_id "align_id:5457|Unigene5277_YT|Unigene5277_YT.path1";
+
+NC_001144.5	gmap	transcript	708312	710123	.	-	.	gene_id "align_id:5489|Unigene5309_YT"; transcript_id "align_id:5489|Unigene5309_YT|Unigene5309_YT.path1";
+NC_001144.5	gmap	exon	708312	708692	99	-	.	gene_id "align_id:5489|Unigene5309_YT"; transcript_id "align_id:5489|Unigene5309_YT|Unigene5309_YT.path1";
+NC_001144.5	gmap	exon	708708	710123	98	-	.	gene_id "align_id:5489|Unigene5309_YT"; transcript_id "align_id:5489|Unigene5309_YT|Unigene5309_YT.path1";
+
+NC_001144.5	gmap	transcript	941031	948217	.	+	.	gene_id "align_id:5617|Unigene5443_YT"; transcript_id "align_id:5617|Unigene5443_YT|Unigene5443_YT.path1";
+NC_001144.5	gmap	exon	941031	941189	97	+	.	gene_id "align_id:5617|Unigene5443_YT"; transcript_id "align_id:5617|Unigene5443_YT|Unigene5443_YT.path1";
+NC_001144.5	gmap	exon	947152	948217	99	+	.	gene_id "align_id:5617|Unigene5443_YT"; transcript_id "align_id:5617|Unigene5443_YT|Unigene5443_YT.path1";
+
+NC_001144.5	gmap	transcript	947109	963559	.	-	.	gene_id "align_id:5623|Unigene5451_YT"; transcript_id "align_id:5623|Unigene5451_YT|Unigene5451_YT.path1";
+NC_001144.5	gmap	exon	947109	947143	83	-	.	gene_id "align_id:5623|Unigene5451_YT"; transcript_id "align_id:5623|Unigene5451_YT|Unigene5451_YT.path1";
+NC_001144.5	gmap	exon	963130	963559	97	-	.	gene_id "align_id:5623|Unigene5451_YT"; transcript_id "align_id:5623|Unigene5451_YT|Unigene5451_YT.path1";
+
+NC_001140.6	gmap	transcript	551728	553722	.	+	.	gene_id "align_id:5680|Unigene5511_YT"; transcript_id "align_id:5680|Unigene5511_YT|Unigene5511_YT.path1";
+NC_001140.6	gmap	exon	551728	553556	90	+	.	gene_id "align_id:5680|Unigene5511_YT"; transcript_id "align_id:5680|Unigene5511_YT|Unigene5511_YT.path1";
+NC_001140.6	gmap	exon	553630	553722	97	+	.	gene_id "align_id:5680|Unigene5511_YT"; transcript_id "align_id:5680|Unigene5511_YT|Unigene5511_YT.path1";
+
+NC_001133.9	gmap	transcript	204225	205864	.	-	.	gene_id "align_id:5681|Unigene5518_YT"; transcript_id "align_id:5681|Unigene5518_YT|Unigene5518_YT.path1";
+NC_001133.9	gmap	exon	204225	204400	76	-	.	gene_id "align_id:5681|Unigene5518_YT"; transcript_id "align_id:5681|Unigene5518_YT|Unigene5518_YT.path1";
+NC_001133.9	gmap	exon	205616	205864	92	-	.	gene_id "align_id:5681|Unigene5518_YT"; transcript_id "align_id:5681|Unigene5518_YT|Unigene5518_YT.path1";
+
+NC_001133.9	gmap	transcript	204234	222560	.	-	.	gene_id "align_id:5682|Unigene5518_YT"; transcript_id "align_id:5682|Unigene5518_YT|Unigene5518_YT.path2";
+NC_001133.9	gmap	exon	204234	204273	72	-	.	gene_id "align_id:5682|Unigene5518_YT"; transcript_id "align_id:5682|Unigene5518_YT|Unigene5518_YT.path2";
+NC_001133.9	gmap	exon	205616	205761	80	-	.	gene_id "align_id:5682|Unigene5518_YT"; transcript_id "align_id:5682|Unigene5518_YT|Unigene5518_YT.path2";
+NC_001133.9	gmap	exon	206303	206460	88	-	.	gene_id "align_id:5682|Unigene5518_YT"; transcript_id "align_id:5682|Unigene5518_YT|Unigene5518_YT.path2";
+NC_001133.9	gmap	exon	206597	206643	91	-	.	gene_id "align_id:5682|Unigene5518_YT"; transcript_id "align_id:5682|Unigene5518_YT|Unigene5518_YT.path2";
+NC_001133.9	gmap	exon	222550	222560	90	-	.	gene_id "align_id:5682|Unigene5518_YT"; transcript_id "align_id:5682|Unigene5518_YT|Unigene5518_YT.path2";
+
+NC_001133.9	gmap	transcript	26509	27059	.	+	.	gene_id "align_id:5683|Unigene5520_YT"; transcript_id "align_id:5683|Unigene5520_YT|Unigene5520_YT.path1";
+NC_001133.9	gmap	exon	26509	26670	87	+	.	gene_id "align_id:5683|Unigene5520_YT"; transcript_id "align_id:5683|Unigene5520_YT|Unigene5520_YT.path1";
+NC_001133.9	gmap	exon	26942	27059	91	+	.	gene_id "align_id:5683|Unigene5520_YT"; transcript_id "align_id:5683|Unigene5520_YT|Unigene5520_YT.path1";
+
+NC_001142.9	gmap	transcript	726219	726625	.	+	.	gene_id "align_id:5684|Unigene5509_YT"; transcript_id "align_id:5684|Unigene5509_YT|Unigene5509_YT.path1";
+NC_001142.9	gmap	exon	726219	726625	80	+	.	gene_id "align_id:5684|Unigene5509_YT"; transcript_id "align_id:5684|Unigene5509_YT|Unigene5509_YT.path1";
+
+NC_001140.6	gmap	transcript	523038	539485	.	+	.	gene_id "align_id:5686|Unigene5519_YT"; transcript_id "align_id:5686|Unigene5519_YT|Unigene5519_YT.path1";
+NC_001140.6	gmap	exon	523038	525463	98	+	.	gene_id "align_id:5686|Unigene5519_YT"; transcript_id "align_id:5686|Unigene5519_YT|Unigene5519_YT.path1";
+NC_001140.6	gmap	exon	538806	539485	80	+	.	gene_id "align_id:5686|Unigene5519_YT"; transcript_id "align_id:5686|Unigene5519_YT|Unigene5519_YT.path1";
+
+NC_001133.9	gmap	transcript	11624	26304	.	-	.	gene_id "align_id:5757|Unigene5517_YT"; transcript_id "align_id:5757|Unigene5517_YT|Unigene5517_YT.path1";
+NC_001133.9	gmap	exon	11624	13086	90	-	.	gene_id "align_id:5757|Unigene5517_YT"; transcript_id "align_id:5757|Unigene5517_YT|Unigene5517_YT.path1";
+NC_001133.9	gmap	exon	25210	25459	93	-	.	gene_id "align_id:5757|Unigene5517_YT"; transcript_id "align_id:5757|Unigene5517_YT|Unigene5517_YT.path1";
+NC_001133.9	gmap	exon	26270	26304	82	-	.	gene_id "align_id:5757|Unigene5517_YT"; transcript_id "align_id:5757|Unigene5517_YT|Unigene5517_YT.path1";
+
+NC_001133.9	gmap	transcript	23975	24055	.	-	.	gene_id "align_id:5758|Unigene5517_YT"; transcript_id "align_id:5758|Unigene5517_YT|Unigene5517_YT.path2";
+NC_001133.9	gmap	exon	23975	24055	98	-	.	gene_id "align_id:5758|Unigene5517_YT"; transcript_id "align_id:5758|Unigene5517_YT|Unigene5517_YT.path2";
+
+NC_001140.6	gmap	transcript	389093	390030	.	-	.	gene_id "align_id:5762|Unigene5595_YT"; transcript_id "align_id:5762|Unigene5595_YT|Unigene5595_YT.path1";
+NC_001140.6	gmap	exon	389093	389171	100	-	.	gene_id "align_id:5762|Unigene5595_YT"; transcript_id "align_id:5762|Unigene5595_YT|Unigene5595_YT.path1";
+NC_001140.6	gmap	exon	389509	390030	98	-	.	gene_id "align_id:5762|Unigene5595_YT"; transcript_id "align_id:5762|Unigene5595_YT|Unigene5595_YT.path1";
+
+NC_001140.6	gmap	transcript	391757	391977	.	+	.	gene_id "align_id:5764|Unigene5593_YT"; transcript_id "align_id:5764|Unigene5593_YT|Unigene5593_YT.path1";
+NC_001140.6	gmap	exon	391757	391977	89	+	.	gene_id "align_id:5764|Unigene5593_YT"; transcript_id "align_id:5764|Unigene5593_YT|Unigene5593_YT.path1";
+
+NC_001140.6	gmap	transcript	542560	549753	.	-	.	gene_id "align_id:5773|Unigene5507_YT"; transcript_id "align_id:5773|Unigene5507_YT|Unigene5507_YT.path1";
+NC_001140.6	gmap	exon	542560	543623	96	-	.	gene_id "align_id:5773|Unigene5507_YT"; transcript_id "align_id:5773|Unigene5507_YT|Unigene5507_YT.path1";
+NC_001140.6	gmap	exon	549647	549753	97	-	.	gene_id "align_id:5773|Unigene5507_YT"; transcript_id "align_id:5773|Unigene5507_YT|Unigene5507_YT.path1";
+
+NC_001137.3	gmap	transcript	569768	570258	.	-	.	gene_id "align_id:5774|Unigene5507_YT"; transcript_id "align_id:5774|Unigene5507_YT|Unigene5507_YT.path2";
+NC_001137.3	gmap	exon	569768	570258	87	-	.	gene_id "align_id:5774|Unigene5507_YT"; transcript_id "align_id:5774|Unigene5507_YT|Unigene5507_YT.path2";
+
+NC_001144.5	gmap	transcript	981701	982581	.	-	.	gene_id "align_id:5787|Unigene5457_YT"; transcript_id "align_id:5787|Unigene5457_YT|Unigene5457_YT.path1";
+NC_001144.5	gmap	exon	981701	982581	97	-	.	gene_id "align_id:5787|Unigene5457_YT"; transcript_id "align_id:5787|Unigene5457_YT|Unigene5457_YT.path1";
+
+NC_001140.6	gmap	transcript	216216	216806	.	+	.	gene_id "align_id:5885|Unigene5710_YT"; transcript_id "align_id:5885|Unigene5710_YT|Unigene5710_YT.path1";
+NC_001140.6	gmap	exon	216216	216806	99	+	.	gene_id "align_id:5885|Unigene5710_YT"; transcript_id "align_id:5885|Unigene5710_YT|Unigene5710_YT.path1";
+
+NC_001140.6	gmap	transcript	212164	212410	.	+	.	gene_id "align_id:5886|Unigene5710_YT"; transcript_id "align_id:5886|Unigene5710_YT|Unigene5710_YT.path2";
+NC_001140.6	gmap	exon	212164	212410	99	+	.	gene_id "align_id:5886|Unigene5710_YT"; transcript_id "align_id:5886|Unigene5710_YT|Unigene5710_YT.path2";
+
+NC_001140.6	gmap	transcript	93718	94394	.	+	.	gene_id "align_id:5955|Unigene5788_YT"; transcript_id "align_id:5955|Unigene5788_YT|Unigene5788_YT.path1";
+NC_001140.6	gmap	exon	93718	94394	86	+	.	gene_id "align_id:5955|Unigene5788_YT"; transcript_id "align_id:5955|Unigene5788_YT|Unigene5788_YT.path1";
+
+NC_001140.6	gmap	transcript	117189	135683	.	+	.	gene_id "align_id:5959|Unigene5772_YT"; transcript_id "align_id:5959|Unigene5772_YT|Unigene5772_YT.path1";
+NC_001140.6	gmap	exon	117189	119550	99	+	.	gene_id "align_id:5959|Unigene5772_YT"; transcript_id "align_id:5959|Unigene5772_YT|Unigene5772_YT.path1";
+NC_001140.6	gmap	exon	135674	135683	100	+	.	gene_id "align_id:5959|Unigene5772_YT"; transcript_id "align_id:5959|Unigene5772_YT|Unigene5772_YT.path1";
+
+NC_001140.6	gmap	transcript	84271	92483	.	+	.	gene_id "align_id:5964|Unigene5790_YT"; transcript_id "align_id:5964|Unigene5790_YT|Unigene5790_YT.path1";
+NC_001140.6	gmap	exon	84271	84275	100	+	.	gene_id "align_id:5964|Unigene5790_YT"; transcript_id "align_id:5964|Unigene5790_YT|Unigene5790_YT.path1";
+NC_001140.6	gmap	exon	92129	92483	97	+	.	gene_id "align_id:5964|Unigene5790_YT"; transcript_id "align_id:5964|Unigene5790_YT|Unigene5790_YT.path1";
+
+NC_001140.6	gmap	transcript	92460	94337	.	-	.	gene_id "align_id:5971|Unigene5789_YT"; transcript_id "align_id:5971|Unigene5789_YT|Unigene5789_YT.path1";
+NC_001140.6	gmap	exon	92460	94337	87	-	.	gene_id "align_id:5971|Unigene5789_YT"; transcript_id "align_id:5971|Unigene5789_YT|Unigene5789_YT.path1";
+
+NC_001144.5	gmap	transcript	121964	125009	.	-	.	gene_id "align_id:6068|Unigene5891_YT"; transcript_id "align_id:6068|Unigene5891_YT|Unigene5891_YT.path1";
+NC_001144.5	gmap	exon	121964	121976	92	-	.	gene_id "align_id:6068|Unigene5891_YT"; transcript_id "align_id:6068|Unigene5891_YT|Unigene5891_YT.path1";
+NC_001144.5	gmap	exon	122038	125009	99	-	.	gene_id "align_id:6068|Unigene5891_YT"; transcript_id "align_id:6068|Unigene5891_YT|Unigene5891_YT.path1";
+
+NC_001144.5	gmap	transcript	100795	103801	.	+	.	gene_id "align_id:6129|Unigene5881_YT"; transcript_id "align_id:6129|Unigene5881_YT|Unigene5881_YT.path1";
+NC_001144.5	gmap	exon	100795	103801	98	+	.	gene_id "align_id:6129|Unigene5881_YT"; transcript_id "align_id:6129|Unigene5881_YT|Unigene5881_YT.path1";
+
+NC_001141.2	gmap	transcript	390150	390859	.	-	.	gene_id "align_id:6257|Unigene6090_YT"; transcript_id "align_id:6257|Unigene6090_YT|Unigene6090_YT.path1";
+NC_001141.2	gmap	exon	390150	390679	99	-	.	gene_id "align_id:6257|Unigene6090_YT"; transcript_id "align_id:6257|Unigene6090_YT|Unigene6090_YT.path1";
+NC_001141.2	gmap	exon	390812	390859	97	-	.	gene_id "align_id:6257|Unigene6090_YT"; transcript_id "align_id:6257|Unigene6090_YT|Unigene6090_YT.path1";
+
+NC_001141.2	gmap	transcript	392653	393625	.	-	.	gene_id "align_id:6265|Unigene6089_YT"; transcript_id "align_id:6265|Unigene6089_YT|Unigene6089_YT.path1";
+NC_001141.2	gmap	exon	392653	392842	81	-	.	gene_id "align_id:6265|Unigene6089_YT"; transcript_id "align_id:6265|Unigene6089_YT|Unigene6089_YT.path1";
+NC_001141.2	gmap	exon	393035	393625	89	-	.	gene_id "align_id:6265|Unigene6089_YT"; transcript_id "align_id:6265|Unigene6089_YT|Unigene6089_YT.path1";
+
+NC_001141.2	gmap	transcript	348433	363062	.	+	.	gene_id "align_id:6291|Unigene6121_YT"; transcript_id "align_id:6291|Unigene6121_YT|Unigene6121_YT.path1";
+NC_001141.2	gmap	exon	348433	350044	98	+	.	gene_id "align_id:6291|Unigene6121_YT"; transcript_id "align_id:6291|Unigene6121_YT|Unigene6121_YT.path1";
+NC_001141.2	gmap	exon	363047	363062	100	+	.	gene_id "align_id:6291|Unigene6121_YT"; transcript_id "align_id:6291|Unigene6121_YT|Unigene6121_YT.path1";
+
+NC_001144.5	gmap	transcript	150537	150707	.	-	.	gene_id "align_id:6312|Unigene5905_YT"; transcript_id "align_id:6312|Unigene5905_YT|Unigene5905_YT.path1";
+NC_001144.5	gmap	exon	150537	150707	98	-	.	gene_id "align_id:6312|Unigene5905_YT"; transcript_id "align_id:6312|Unigene5905_YT|Unigene5905_YT.path1";
+
+NC_001141.2	gmap	transcript	175007	177437	.	+	.	gene_id "align_id:6405|Unigene6235_YT"; transcript_id "align_id:6405|Unigene6235_YT|Unigene6235_YT.path1";
+NC_001141.2	gmap	exon	175007	175141	97	+	.	gene_id "align_id:6405|Unigene6235_YT"; transcript_id "align_id:6405|Unigene6235_YT|Unigene6235_YT.path1";
+NC_001141.2	gmap	exon	175165	177437	98	+	.	gene_id "align_id:6405|Unigene6235_YT"; transcript_id "align_id:6405|Unigene6235_YT|Unigene6235_YT.path1";
+
+NC_001141.2	gmap	transcript	127440	129894	.	+	.	gene_id "align_id:6439|Unigene6266_YT"; transcript_id "align_id:6439|Unigene6266_YT|Unigene6266_YT.path1";
+NC_001141.2	gmap	exon	127440	128524	99	+	.	gene_id "align_id:6439|Unigene6266_YT"; transcript_id "align_id:6439|Unigene6266_YT|Unigene6266_YT.path1";
+NC_001141.2	gmap	exon	128585	129894	99	+	.	gene_id "align_id:6439|Unigene6266_YT"; transcript_id "align_id:6439|Unigene6266_YT|Unigene6266_YT.path1";
+
+NC_001141.2	gmap	transcript	146903	148916	.	-	.	gene_id "align_id:6470|Unigene6253_YT"; transcript_id "align_id:6470|Unigene6253_YT|Unigene6253_YT.path1";
+NC_001141.2	gmap	exon	146903	148916	99	-	.	gene_id "align_id:6470|Unigene6253_YT"; transcript_id "align_id:6470|Unigene6253_YT|Unigene6253_YT.path1";
+
+NC_001141.2	gmap	transcript	144075	147058	.	-	.	gene_id "align_id:6471|Unigene6253_YT"; transcript_id "align_id:6471|Unigene6253_YT|Unigene6253_YT.path2";
+NC_001141.2	gmap	exon	144075	147058	98	-	.	gene_id "align_id:6471|Unigene6253_YT"; transcript_id "align_id:6471|Unigene6253_YT|Unigene6253_YT.path2";
+
+NC_001135.5	gmap	transcript	268832	269069	.	+	.	gene_id "align_id:6508|Unigene6336_YT"; transcript_id "align_id:6508|Unigene6336_YT|Unigene6336_YT.path1";
+NC_001135.5	gmap	exon	268832	269069	92	+	.	gene_id "align_id:6508|Unigene6336_YT"; transcript_id "align_id:6508|Unigene6336_YT|Unigene6336_YT.path1";
+
+NC_001135.5	gmap	transcript	211724	213951	.	+	.	gene_id "align_id:6541|Unigene6373_YT"; transcript_id "align_id:6541|Unigene6373_YT|Unigene6373_YT.path1";
+NC_001135.5	gmap	exon	211724	212096	99	+	.	gene_id "align_id:6541|Unigene6373_YT"; transcript_id "align_id:6541|Unigene6373_YT|Unigene6373_YT.path1";
+NC_001135.5	gmap	exon	212113	213951	99	+	.	gene_id "align_id:6541|Unigene6373_YT"; transcript_id "align_id:6541|Unigene6373_YT|Unigene6373_YT.path1";
+
+NC_001141.2	gmap	transcript	23644	26627	.	-	.	gene_id "align_id:6550|Unigene6319_YT"; transcript_id "align_id:6550|Unigene6319_YT|Unigene6319_YT.path1";
+NC_001141.2	gmap	exon	23644	25534	98	-	.	gene_id "align_id:6550|Unigene6319_YT"; transcript_id "align_id:6550|Unigene6319_YT|Unigene6319_YT.path1";
+NC_001141.2	gmap	exon	25825	26627	97	-	.	gene_id "align_id:6550|Unigene6319_YT"; transcript_id "align_id:6550|Unigene6319_YT|Unigene6319_YT.path1";
+
+NC_001135.5	gmap	transcript	124070	124825	.	+	.	gene_id "align_id:6603|Unigene6436_YT"; transcript_id "align_id:6603|Unigene6436_YT|Unigene6436_YT.path1";
+NC_001135.5	gmap	exon	124070	124132	95	+	.	gene_id "align_id:6603|Unigene6436_YT"; transcript_id "align_id:6603|Unigene6436_YT|Unigene6436_YT.path1";
+NC_001135.5	gmap	exon	124467	124825	99	+	.	gene_id "align_id:6603|Unigene6436_YT"; transcript_id "align_id:6603|Unigene6436_YT|Unigene6436_YT.path1";
+
+NC_001138.5	gmap	transcript	192748	205887	.	+	.	gene_id "align_id:6793|Unigene6632_YT"; transcript_id "align_id:6793|Unigene6632_YT|Unigene6632_YT.path1";
+NC_001138.5	gmap	exon	192748	192753	100	+	.	gene_id "align_id:6793|Unigene6632_YT"; transcript_id "align_id:6793|Unigene6632_YT|Unigene6632_YT.path1";
+NC_001138.5	gmap	exon	205071	205887	100	+	.	gene_id "align_id:6793|Unigene6632_YT"; transcript_id "align_id:6793|Unigene6632_YT|Unigene6632_YT.path1";
+
+NC_001138.5	gmap	transcript	208354	210460	.	-	.	gene_id "align_id:6802|Unigene6635_YT"; transcript_id "align_id:6802|Unigene6635_YT|Unigene6635_YT.path1";
+NC_001138.5	gmap	exon	208354	210353	99	-	.	gene_id "align_id:6802|Unigene6635_YT"; transcript_id "align_id:6802|Unigene6635_YT|Unigene6635_YT.path1";
+NC_001138.5	gmap	exon	210404	210460	100	-	.	gene_id "align_id:6802|Unigene6635_YT"; transcript_id "align_id:6802|Unigene6635_YT|Unigene6635_YT.path1";
+
+NC_001133.9	gmap	transcript	13700	28550	.	-	.	gene_id "align_id:6846|Unigene6690_YT"; transcript_id "align_id:6846|Unigene6690_YT|Unigene6690_YT.path1";
+NC_001133.9	gmap	exon	13700	13949	80	-	.	gene_id "align_id:6846|Unigene6690_YT"; transcript_id "align_id:6846|Unigene6690_YT|Unigene6690_YT.path1";
+NC_001133.9	gmap	exon	27758	28550	92	-	.	gene_id "align_id:6846|Unigene6690_YT"; transcript_id "align_id:6846|Unigene6690_YT|Unigene6690_YT.path1";
+
+NC_001138.5	gmap	transcript	266952	267090	.	+	.	gene_id "align_id:6853|Unigene6683_YT"; transcript_id "align_id:6853|Unigene6683_YT|Unigene6683_YT.path1";
+NC_001138.5	gmap	exon	266952	267090	95	+	.	gene_id "align_id:6853|Unigene6683_YT"; transcript_id "align_id:6853|Unigene6683_YT|Unigene6683_YT.path1";
+
+NC_001133.9	gmap	transcript	26941	27177	.	+	.	gene_id "align_id:6900|Unigene6689_YT"; transcript_id "align_id:6900|Unigene6689_YT|Unigene6689_YT.path1";
+NC_001133.9	gmap	exon	26941	27177	88	+	.	gene_id "align_id:6900|Unigene6689_YT"; transcript_id "align_id:6900|Unigene6689_YT|Unigene6689_YT.path1";
+
+NC_001133.9	gmap	transcript	13372	28337	.	+	.	gene_id "align_id:6901|Unigene6689_YT"; transcript_id "align_id:6901|Unigene6689_YT|Unigene6689_YT.path2";
+NC_001133.9	gmap	exon	13372	13619	93	+	.	gene_id "align_id:6901|Unigene6689_YT"; transcript_id "align_id:6901|Unigene6689_YT|Unigene6689_YT.path2";
+NC_001133.9	gmap	exon	27428	28337	89	+	.	gene_id "align_id:6901|Unigene6689_YT"; transcript_id "align_id:6901|Unigene6689_YT|Unigene6689_YT.path2";
+
+NC_001133.9	gmap	transcript	195867	198127	.	+	.	gene_id "align_id:6948|Unigene6791_YT"; transcript_id "align_id:6948|Unigene6791_YT|Unigene6791_YT.path1";
+NC_001133.9	gmap	exon	195867	195880	100	+	.	gene_id "align_id:6948|Unigene6791_YT"; transcript_id "align_id:6948|Unigene6791_YT|Unigene6791_YT.path1";
+NC_001133.9	gmap	exon	197769	198127	95	+	.	gene_id "align_id:6948|Unigene6791_YT"; transcript_id "align_id:6948|Unigene6791_YT|Unigene6791_YT.path1";
+
+NC_001133.9	gmap	transcript	198466	198860	.	+	.	gene_id "align_id:6969|Unigene6796_YT"; transcript_id "align_id:6969|Unigene6796_YT|Unigene6796_YT.path1";
+NC_001133.9	gmap	exon	198466	198860	90	+	.	gene_id "align_id:6969|Unigene6796_YT"; transcript_id "align_id:6969|Unigene6796_YT|Unigene6796_YT.path1";
+
+NC_001133.9	gmap	transcript	205719	207506	.	+	.	gene_id "align_id:6975|Unigene6799_YT"; transcript_id "align_id:6975|Unigene6799_YT|Unigene6799_YT.path1";
+NC_001133.9	gmap	exon	205719	205805	96	+	.	gene_id "align_id:6975|Unigene6799_YT"; transcript_id "align_id:6975|Unigene6799_YT|Unigene6799_YT.path1";
+NC_001133.9	gmap	exon	206346	207506	90	+	.	gene_id "align_id:6975|Unigene6799_YT"; transcript_id "align_id:6975|Unigene6799_YT|Unigene6799_YT.path1";
+
+NC_001133.9	gmap	transcript	202545	203615	.	+	.	gene_id "align_id:6987|Unigene6797_YT"; transcript_id "align_id:6987|Unigene6797_YT|Unigene6797_YT.path1";
+NC_001133.9	gmap	exon	202545	203615	94	+	.	gene_id "align_id:6987|Unigene6797_YT"; transcript_id "align_id:6987|Unigene6797_YT|Unigene6797_YT.path1";
+
+NC_001144.5	gmap	transcript	458491	468129	.	-	.	gene_id "align_id:7005|Unigene6850_YT"; transcript_id "align_id:7005|Unigene6850_YT|Unigene6850_YT.path1";
+NC_001144.5	gmap	exon	458491	458681	98	-	.	gene_id "align_id:7005|Unigene6850_YT"; transcript_id "align_id:7005|Unigene6850_YT|Unigene6850_YT.path1";
+NC_001144.5	gmap	exon	467813	468129	99	-	.	gene_id "align_id:7005|Unigene6850_YT"; transcript_id "align_id:7005|Unigene6850_YT|Unigene6850_YT.path1";
+
+NC_001133.9	gmap	transcript	11275	27133	.	+	.	gene_id "align_id:7009|Unigene6800_YT"; transcript_id "align_id:7009|Unigene6800_YT|Unigene6800_YT.path1";
+NC_001133.9	gmap	exon	11275	11916	98	+	.	gene_id "align_id:7009|Unigene6800_YT"; transcript_id "align_id:7009|Unigene6800_YT|Unigene6800_YT.path1";
+NC_001133.9	gmap	exon	24317	24735	97	+	.	gene_id "align_id:7009|Unigene6800_YT"; transcript_id "align_id:7009|Unigene6800_YT|Unigene6800_YT.path1";
+NC_001133.9	gmap	exon	24758	25485	85	+	.	gene_id "align_id:7009|Unigene6800_YT"; transcript_id "align_id:7009|Unigene6800_YT|Unigene6800_YT.path1";
+NC_001133.9	gmap	exon	25619	25824	78	+	.	gene_id "align_id:7009|Unigene6800_YT"; transcript_id "align_id:7009|Unigene6800_YT|Unigene6800_YT.path1";
+NC_001133.9	gmap	exon	27039	27133	87	+	.	gene_id "align_id:7009|Unigene6800_YT"; transcript_id "align_id:7009|Unigene6800_YT|Unigene6800_YT.path1";
+
+NC_001140.6	gmap	transcript	526898	527036	.	-	.	gene_id "align_id:7010|Unigene6800_YT"; transcript_id "align_id:7010|Unigene6800_YT|Unigene6800_YT.path2";
+NC_001140.6	gmap	exon	526898	527036	91	-	.	gene_id "align_id:7010|Unigene6800_YT"; transcript_id "align_id:7010|Unigene6800_YT|Unigene6800_YT.path2";
+
+NC_001138.5	gmap	transcript	268667	268751	.	+	.	gene_id "align_id:7012|Unigene6686_YT"; transcript_id "align_id:7012|Unigene6686_YT|Unigene6686_YT.path1";
+NC_001138.5	gmap	exon	268667	268751	83	+	.	gene_id "align_id:7012|Unigene6686_YT"; transcript_id "align_id:7012|Unigene6686_YT|Unigene6686_YT.path1";
+
+NC_001134.8	gmap	transcript	259752	264059	.	+	.	gene_id "align_id:7013|Unigene6157_YT"; transcript_id "align_id:7013|Unigene6157_YT|Unigene6157_YT.path1";
+NC_001134.8	gmap	exon	259752	259899	92	+	.	gene_id "align_id:7013|Unigene6157_YT"; transcript_id "align_id:7013|Unigene6157_YT|Unigene6157_YT.path1";
+NC_001134.8	gmap	exon	264049	264059	90	+	.	gene_id "align_id:7013|Unigene6157_YT"; transcript_id "align_id:7013|Unigene6157_YT|Unigene6157_YT.path1";
+
