@@ -9,11 +9,9 @@
 * License
 
 # Contributors
-Qingxiang Guo1, 2, Dan Li1, 2, Yanhua Zhai1, 2, Zemao Gu1, 2*
-
-1Department of Aquatic Animal Medicine, College of Fisheries, Huazhong Agricultural University, Wuhan, Hubei province, 430070, PR China.
-
-2Hubei Engineering Technology Research Center for Aquatic Animal Diseases Control and Prevention, Wuhan, 430070, PR China.
+Qingxiang Guo
+Postdoctoral Fellow
+Northwestern University, Feinberg School of Medicine
 
 # What is CCPRD?
 Here we propose an efficient framework for constructing the comprehensive protein reference database, "customized comprehensive proteomic reference database (CCPRD)", which incorporated the draft genomes and transcriptomes. Compared with previous protocols, our method has superiorities in peptide and protein identification numbers, number of entries database size, and completeness.
