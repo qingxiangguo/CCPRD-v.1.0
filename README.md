@@ -9,8 +9,8 @@
 * License
 
 # Contributors
-Qingxiang Guo
-Postdoctoral Fellow
+Qingxiang Guo  
+Postdoctoral Fellow  
 Northwestern University, Feinberg School of Medicine
 
 # What is CCPRD?
