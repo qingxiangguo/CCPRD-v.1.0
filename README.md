@@ -9,7 +9,7 @@
 * License
 
 # Contributors
-Qingxiang Guo  
+Qingxiang (Allen) Guo  
 Postdoctoral Fellow  
 Northwestern University, Feinberg School of Medicine
 
